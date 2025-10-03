@@ -17,6 +17,17 @@
 
 ---
 
+### 🏆 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH_(In_Progress)-2C2D72?style=flat-square&logo=ec council&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP_(In_Progress)-241F31?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
