@@ -184,12 +184,12 @@ focus:
 <!-- PROFILE_VIEWS:START -->
 
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: 432)</summary>
+<summary><b>📊 Monthly Profile Views</b> (Total: 458)</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
 |-------|-------|------|-----|--------|
-| 2026-07 | 196 | 432 | 432 | 236 |
+| 2026-07 | 196 | 458 | 458 | 262 |
 
 </details>
 
