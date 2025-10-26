@@ -212,6 +212,16 @@ focus:
 
 ---
 
+## Weekly Contribution Activity
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Dev9269&theme=dark&bg_color=0d1117&border_color=00FF41" alt="Contribution Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev9269&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117" alt="WakaTime Stats" />
+</div>
+
+---
+
 ## Sponsors
 
 Support my open source work — every contribution helps me build better security tools for the community.
