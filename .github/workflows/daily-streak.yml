@@ -20,4 +20,4 @@ jobs:
         with:
           commit_message: "chore: daily activity $(date -u '+%Y-%m-%d')"
           commit_user_name: Dev9269
-          commit_user_email: Dev9269@users.noreply.github.com
+          commit_user_email: 157703342+Dev9269@users.noreply.github.com
