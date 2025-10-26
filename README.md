@@ -26,6 +26,17 @@
 
 ---
 
+## Quick Navigation
+
+- [About](#about)
+- [Featured Projects](#featured-projects)
+- [Tech Stack](#tech-stack)
+- [GitHub Analytics](#github-analytics)
+- [Open Source Contributions](#open-source-contributions)
+- [Connect](#connect)
+
+---
+
 ## About
 
 ```yaml
