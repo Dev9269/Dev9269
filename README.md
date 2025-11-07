@@ -391,12 +391,12 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
 <!-- PROFILE_VIEWS:START -->
 
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: 298)</summary>
+<summary><b>📊 Monthly Profile Views</b> (Total: 321)</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
 |-------|-------|------|-----|--------|
-| 2026-07 | 196 | 298 | 298 | 102 |
+| 2026-07 | 196 | 321 | 321 | 125 |
 
 </details>
 
