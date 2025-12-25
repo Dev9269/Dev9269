@@ -197,6 +197,27 @@ focus:
 
 ---
 
+## Sponsors
+
+Support my open source work — every contribution helps me build better security tools for the community.
+
+<div align="center">
+  <a href="https://github.com/sponsors/Dev9269"><img src="https://img.shields.io/badge/GitHub_Sponsors-Dev9269-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/dev9269"><img src="https://img.shields.io/badge/Ko--fi-Dev9269-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" /></a>
+</div>
+
+### Sponsor Tiers
+
+| Tier | Benefit |
+|------|---------|
+| **🥉 Bronze** ($1/mo) | Name in README credits |
+| **🥈 Silver** ($5/mo) | Priority feature requests |
+| **🥇 Gold** ($20/mo) | Direct support & early access |
+| **💎 Diamond** ($50/mo) | Custom tool development |
+
+---
+
 ## Connect
 
 <div align="center">
