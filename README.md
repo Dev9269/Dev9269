@@ -11,11 +11,13 @@
 ### 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev9269&hide_border=true&currStreakLabel=0891b2" alt="streak" />
+  <img src="https://img.shields.io/badge/Contribution%20Window-2025%E2%80%932026-0891b2?style=flat-square&logo=github" alt="contribution window" />
+  <img src="https://img.shields.io/badge/Current%20Streak-389%20days-2ea043?style=flat-square&logo=fire" alt="current streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-7.5k%2B-f97316?style=flat-square&logo=git" alt="total contributions" />
 </p>
 
 <p align="center">
