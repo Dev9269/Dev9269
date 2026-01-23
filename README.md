@@ -139,13 +139,13 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>⚡ <b>Quickdraw</b></td>
-    <td>9 / 20 PRs merged in less than 5 min</td>
-    <td>🏅 <b>Level 1</b> (11 to Level 2)</td>
+    <td>23+ / 20 PRs merged in less than 5 min</td>
+    <td>🏅 <b>Level 2</b></td>
   </tr>
   <tr>
     <td>🦅 <b>YOLO</b></td>
-    <td>9 / 25 PRs merged without review</td>
-    <td>🏅 <b>Level 1</b> (16 to Level 2)</td>
+    <td>23+ / 25 PRs merged without review</td>
+    <td>🏅 <b>Level 1</b> (2 to Level 2)</td>
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
