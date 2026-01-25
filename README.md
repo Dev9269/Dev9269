@@ -11,11 +11,11 @@
 ### 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev9269&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev9269&hide_border=true&currStreakLabel=0891b2" alt="streak" />
 </p>
 
 <p align="center">
