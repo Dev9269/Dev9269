@@ -157,14 +157,21 @@
 
 ### 📁 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🛡️ [SSH Honeypot](https://github.com/Dev9269/ssh-honeypot) | AI-driven honeypot with Ollama, MITRE ATT&CK mapping, real-time dashboard | Python, Paramiko, Ollama |
-| 🎯 [CyberLab Pro](https://github.com/Dev9269/CyberLab-Pro) | CTF training platform with scoring, leaderboards, gamified learning | React, Node.js, PostgreSQL |
-| 🤖 [AI Chatbot](https://github.com/Dev9269/ai-chatbot) | Conversational AI with streaming responses and context management | Python, JavaScript, Groq AI |
-| 🔐 [Password Toolkit](https://github.com/Dev9269/password-cracker-toolkit) | GPU-accelerated security testing with rule-based attacks | Python, CUDA, Hashcat |
-| 📚 [EduOS](https://github.com/Dev9269/eduos) | Educational operating system with process scheduling and filesystem | C++, Assembly, x86 |
-| 🌐 [Portfolio](https://github.com/Dev9269/portfolio) | Personal portfolio and project showcase | React, Next.js, Tailwind |
+| Project | CI | Description | Stack |
+|---|---|---|---|
+| 🛡️ [SSH Honeypot](https://github.com/Dev9269/ssh-honeypot) | [![CI](https://github.com/Dev9269/ssh-honeypot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ssh-honeypot/actions) | AI-driven honeypot with Ollama, MITRE ATT&CK | Python, Paramiko, Ollama |
+| 🎯 [CyberLab Pro](https://github.com/Dev9269/CyberLab-Pro) | — | CTF training platform with scoring | React, Node.js |
+| 🤖 [AI Chatbot](https://github.com/Dev9269/ai-chatbot) | [![CI](https://github.com/Dev9269/ai-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ai-chatbot/actions) | Conversational AI with streaming | Python, JS, Groq AI |
+| 🔐 [Password Toolkit](https://github.com/Dev9269/password-cracker-toolkit) | [![CI](https://github.com/Dev9269/password-cracker-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/password-cracker-toolkit/actions) | GPU-accelerated security toolkit | Python, CUDA |
+| 📚 [EduOS](https://github.com/Dev9269/eduos) | [![CI](https://github.com/Dev9269/eduos/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/eduos/actions) | Educational operating system | C++, Assembly |
+| 🌐 [Portfolio](https://github.com/Dev9269/portfolio) | [![CI](https://github.com/Dev9269/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/portfolio/actions) | Portfolio project showcase | React, Next.js |
+
+<br/>
+<p align="center">
+  <a href="https://github.com/sponsors/Dev9269"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
+  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/jainammaru"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</p>
 
 ---
 
