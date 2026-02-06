@@ -2,6 +2,44 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it by opening an issue or contacting the maintainer directly. Do not disclose the issue publicly until it has been addressed.
+If you discover a security vulnerability in any Dev9269 project, **do not** open a public GitHub issue. Report it privately.
 
-We will acknowledge receipt of your report within 48 hours and strive to resolve critical issues within 7 days.
+**Report via GitHub Security Advisory:**
+1. Go to the repository's **Security** tab
+2. Click **Report a vulnerability** (or use the repo's `/security/advisories/new` URL)
+3. Fill in the details
+
+**Or email directly:**
+[jainammaru567000@gmail.com](mailto:jainammaru567000@gmail.com)
+GPG fingerprint: `00D6CCEA36D10407`
+
+### Please include:
+- Type of vulnerability
+- Steps to reproduce (PoC preferred)
+- Affected versions
+- Potential impact
+- Any suggested fix (optional)
+
+## Response Timeline
+
+| Step | Timeframe |
+|------|-----------|
+| Acknowledgment | Within 48 hours |
+| Initial assessment | Within 5 business days |
+| Fix timeline | Communicated based on severity |
+| Coordinated disclosure | 90 days after fix shipped |
+
+## Supported Versions
+
+| Version | Supported |
+|---------|-----------|
+| latest  | ✅ |
+| older   | ❌ |
+
+## Scope
+
+This security policy covers the source code and deployment configurations in this repository. Dependencies and third-party libraries should be reported to their respective maintainers.
+
+## Coordinated Disclosure
+
+We follow coordinated disclosure. Please allow us reasonable time to fix the issue before any public disclosure. We will credit reporters in release notes (with permission).
