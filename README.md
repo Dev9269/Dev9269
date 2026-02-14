@@ -204,10 +204,6 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
 <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&theme=vision-friendly-dark&border_color=00ff41&icon_color=00ff41&title_color=00ff41&hide_border=false&bg_color=0d1117" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev9269&layout=compact&theme=vision-friendly-dark&border_color=00ff41&title_color=00ff41&hide_border=false&bg_color=0d1117" height="180" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/dev9269/dev9269/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 <br>
