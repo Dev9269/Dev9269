@@ -258,6 +258,16 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td>Built full AI Assistant (web + CLI)</td>
     <td><b>✅ Active</b></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/scanapi/scanapi">scanapi/scanapi</a></td>
+    <td>Replaced deprecated pytest-freezegun with time-machine</td>
+    <td><b>✅ PR #1011</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
+    <td>Skip public API calls for non-routable IPs</td>
+    <td><b>✅ PR #320</b></td>
+  </tr>
 </table>
 
 <br>
