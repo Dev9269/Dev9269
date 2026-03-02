@@ -179,6 +179,102 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
     <td>0 / 16 stars on a repo</td>
     <td>⬜ Not yet</td>
   </tr>
+  <tr>
+    <td>🗂️ <b>Pair Extraordinaire</b></td>
+    <td>Co-authored commits across multiple repos</td>
+    <td>✅ <b>Unlocked</b></td>
+  </tr>
+  <tr>
+    <td>📦 <b>Public Sponsor</b></td>
+    <td>Sponsoring open-source projects</td>
+    <td>⬜ <b>Not yet</b></td>
+  </tr>
+  <tr>
+    <td>🌙 <b>Dark Mode Advocate</b></td>
+    <td>All repos ship with dark mode support</td>
+    <td>✅ <b>Unlocked</b></td>
+  </tr>
+</table>
+
+<br>
+
+<h2>🛡️ Security Arsenal</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CTF%20Competitions-5%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hash%20Algorithms-50%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Attack%20Modes-6-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tests%20Passing-127-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tools%20Built-10%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Zero%20Trust-Lab%20Deployed-00ff41?style=flat&labelColor=0d1117" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-Pro-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Pro-557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hashcat-Integrated-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp%20Suite-Pro-FF6C37?style=flat&logo=burpsuite&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wireshark-Pro-1679A7?style=flat&logo=wireshark&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nmap-Pro-004C99?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Metasploit-Intermediate-4479A1?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux%20Admin-Pro-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git%2FGitHub-Pro-F05032?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+<br>
+
+<h2>🎯 Project Milestones</h2>
+
+<br>
+
+<table>
+  <tr>
+    <th>Milestone</th>
+    <th>Project</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>🚀 <b>v2.1.0 Release</b></td>
+    <td>Password Cracker Toolkit</td>
+    <td>2026-07</td>
+  </tr>
+  <tr>
+    <td>🧪 <b>127 Tests Passing</b></td>
+    <td>Password Cracker Toolkit</td>
+    <td>2026-07</td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Zero Trust Lab Deployed</b></td>
+    <td>Zero Trust Lab</td>
+    <td>2026-06</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>EduOS Built</b></td>
+    <td>EduOS / CyberLab Pro</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>E-Rakshak CTF Top 25%</b></td>
+    <td>Caffeine and Code</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>AI Chatbot Deployed</b></td>
+    <td>AI Chatbot (Groq + Llama 3.3)</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>🌑 <b>OSINT Crawler Built</b></td>
+    <td>Dark Sentinel</td>
+    <td>2025</td>
+  </tr>
 </table>
 
 <br>
