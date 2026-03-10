@@ -253,6 +253,11 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td>Grammar fix in README</td>
     <td><b>✅ Merged</b></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/aditya226-sharma/ai-Assistant-">aditya226-sharma/ai-Assistant-</a></td>
+    <td>Built full AI Assistant (web + CLI)</td>
+    <td><b>✅ Active</b></td>
+  </tr>
 </table>
 
 <br>
