@@ -111,18 +111,19 @@ I don't just write code — I document everything, CI-test everything, and open-
 |---------|-------------|--------|
 | [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message | ✅ Merged |
 | [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError | ✅ Merged |
-| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | ⏳ Open |
+| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | ✅ Merged |
 | [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | ⏳ Open |
 | [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | ⏸ Closed unmerged |
-| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | ⏳ Open |
+| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | ⏸ Closed unmerged |
 | [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | ✅ Merged |
 | [lissy93/web-check](https://github.com/lissy93/web-check) | Bug fixes, SECURITY.md, non-routable IP detection | ✅ 4 PRs merged |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Documentation fix | ✅ Merged |
 | [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun → time-machine | ⏳ PR #1011 |
 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fix + password storage + mentoring | ✅ Merged |
-| [OWASP/Nest](https://github.com/OWASP/Nest) | Server-side program status validation | ✅ Merged |
+| [OWASP/Nest](https://github.com/OWASP/Nest) | Server-side program status validation (merged) + sitemap `lastmod` fix for `/repositories` | ✅ Merged · ⏳ PR [#5437](https://github.com/OWASP/Nest/pull/5437) |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Fix Discord.bio + interpals false positives (status-code detection) | ⏳ PR [#3080](https://github.com/sherlock-project/sherlock/pull/3080) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | ⏸ Closed |
-| [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations | ⏳ Open |
+| [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations — trimmed test lockfiles, lazy DB init | ⏳ PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
 
 ---
 
