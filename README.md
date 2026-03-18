@@ -130,7 +130,7 @@ I don't just write code — I document everything, CI-test everything, and open-
 | [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | ⏳ Open |
 | [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | ⏸ Closed unmerged |
 | [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | ⏳ Open |
-| [qeeqbox/social-analyzer](https://github.com/qeqqbox/social-analyzer) | README documentation fixes | ✅ Merged |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | ✅ Merged |
 | [lissy93/web-check](https://github.com/lissy93/web-check) | Bug fixes, SECURITY.md, non-routable IP detection | ✅ 4 PRs merged |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Documentation fix | ✅ Merged |
 | [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun → time-machine | ⏳ PR #1011 |
