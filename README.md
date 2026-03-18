@@ -192,7 +192,7 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <div align="center">
 
 <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-19-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-55-6a11cb?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Repositories-14-6a11cb?style=flat&labelColor=0d1117" />
 
 <br><br>
