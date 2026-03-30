@@ -266,12 +266,12 @@ Support my open source work — every contribution helps me build better securit
 <!-- PROFILE_VIEWS:START -->
 
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: 458)</summary>
+<summary><b>📊 Monthly Profile Views</b> (Total: 476)</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
 |-------|-------|------|-----|--------|
-| 2026-07 | 196 | 458 | 458 | 262 |
+| 2026-07 | 196 | 476 | 476 | 280 |
 
 </details>
 
