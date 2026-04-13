@@ -91,9 +91,9 @@ focus:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 EduOS <a href="https://github.com/Dev9269/EduOS">🔗</a></h3>
-      <p>Debian-based educational OS with secure exam mode, integrated cyber lab, and admin center</p>
-      <p><code>Python</code> <code>PyQt6</code></p>
+      <h3>🎓 EduOS <a href="https://github.com/Dev9269/eduos">🔗</a></h3>
+      <p>Debian-based educational OS — secure exam mode with lockdown, encrypted admin center, FastAPI broker + agent daemon, CI-tested, live-build ISO</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>FastAPI</code> <code>Debian</code> <a href="https://github.com/Dev9269/eduos/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dev9269/eduos/ci.yml" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Zero Trust Lab <a href="https://github.com/Dev9269/zero-trust-lab">🔗</a></h3>
