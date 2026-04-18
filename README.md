@@ -179,3 +179,18 @@ focus:
   <br><br>
   <sub><code>"Code with intention. Secure with ethics." — Jainam H. Maru</code></sub>
 </div>
+
+
+<!-- PROFILE_VIEWS:START -->
+
+<details>
+<summary><b>📊 Monthly Profile Views</b> (Total: 432)</summary>
+<br>
+
+| Month | Start | Peak | End | Growth |
+|-------|-------|------|-----|--------|
+| 2026-07 | 196 | 432 | 432 | 236 |
+
+</details>
+
+<!-- PROFILE_VIEWS:END -->
