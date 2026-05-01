@@ -11,20 +11,23 @@
 ### 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=0d1117&text_color=ffffff" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev9269&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff&dates=8b949e" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev9269&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=0891b2&bg_color=0d1117&text_color=ffffff" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev9269&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev9269&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="activity graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev9269&layout=compact&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev9269&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev9269&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev9269&theme=flat&no-frame=true&row=2&column=4" alt="trophy" />
 </p>
 
 ---
