@@ -16,7 +16,7 @@
 </pre>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=Threat+intelligence%2C+but+make+it+open+source;I+break+systems+so+they+can%27t+break+you;MITRE+ATT%26CK+%C3%97+LLMs+%3D+my+playground;Zero+trust%2C+maximum+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=Threat+intelligence%2C+but+make+it+open+source;I+break+systems+so+they+can%27t+break+you;MITRE+ATT%26CK+%C3%97+LLMs+%3D+my+playground;Zero+trust%2C+maximum+curiosity" alt="Typing SVG" />
 </h3>
 
 > **"Hack ethically. Build defensively. Share everything."**
@@ -100,7 +100,7 @@ I don't just write code — I document everything, CI-test everything, and open-
   <img src="https://github-readme-stats.vercel.app/api?username=Dev9269&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev9269&layout=compact&theme=radical&bg_color=0d1117&border_color=00FF41&title_color=00FF41" height="175" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=Dev9269&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" />
 </div>
 
