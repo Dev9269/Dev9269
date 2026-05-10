@@ -71,9 +71,9 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
     <td><code>🟢 LIVE</code></td>
   </tr>
   <tr>
-    <td><b>🔐 Password Toolkit</b></td>
-    <td>GPU-accelerated security testing with rule-based attacks and hashcat-compatible formats</td>
-    <td><code>Python · CUDA</code></td>
+    <td><b>🔐 Password Toolkit v2.1</b></td>
+    <td>Mask attack, hashcat-compatible rule engine, combinator attack, session persistence, multiprocessing, wordlist utilities — 127 tests passing</td>
+    <td><code>Python · CUDA · Multiprocessing</code></td>
     <td><code>🟢 ACTIVE</code></td>
   </tr>
   <tr>
@@ -304,6 +304,11 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
     <td>Added video game quote to community content</td>
     <td><b>✅ PR #25109</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/password-cracker-toolkit">Dev9269/password-cracker-toolkit</a></td>
+    <td>v2.1.0 — Mask attack, rule engine, combinator, session persistence, multiprocessing, 127 tests</td>
+    <td><b>✅ v2.1.0</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Dev9269/password-cracker-toolkit">Dev9269/password-cracker-toolkit</a></td>
