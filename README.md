@@ -289,11 +289,12 @@ Support my open source work — every contribution helps me build better securit
 <!-- PROFILE_VIEWS:START -->
 
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: 503)</summary>
+<summary><b>📊 Monthly Profile Views</b> (Total: 521)</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
 |-------|-------|------|-----|--------|
+| 2026-08 | 521 | 521 | 521 | 0 |
 | 2026-07 | 196 | 503 | 503 | 307 |
 
 </details>
