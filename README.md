@@ -157,14 +157,14 @@
 
 ### 📁 Projects
 
-| Project | CI | Description | Stack |
+| Project | CI | Demo | Description | Stack |
 |---|---|---|---|
-| 🛡️ [SSH Honeypot](https://github.com/Dev9269/ssh-honeypot) | [![CI](https://github.com/Dev9269/ssh-honeypot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ssh-honeypot/actions) | AI-driven honeypot with Ollama, MITRE ATT&CK | Python, Paramiko, Ollama |
-| 🎯 [CyberLab Pro](https://github.com/Dev9269/CyberLab-Pro) | — | CTF training platform with scoring | React, Node.js |
-| 🤖 [AI Chatbot](https://github.com/Dev9269/ai-chatbot) | [![CI](https://github.com/Dev9269/ai-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ai-chatbot/actions) | Conversational AI with streaming | Python, JS, Groq AI |
-| 🔐 [Password Toolkit](https://github.com/Dev9269/password-cracker-toolkit) | [![CI](https://github.com/Dev9269/password-cracker-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/password-cracker-toolkit/actions) | GPU-accelerated security toolkit | Python, CUDA |
-| 📚 [EduOS](https://github.com/Dev9269/eduos) | [![CI](https://github.com/Dev9269/eduos/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/eduos/actions) | Educational operating system | C++, Assembly |
-| 🌐 [Portfolio](https://github.com/Dev9269/portfolio) | [![CI](https://github.com/Dev9269/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/portfolio/actions) | Portfolio project showcase | React, Next.js |
+| 🛡️ [SSH Honeypot](https://github.com/Dev9269/ssh-honeypot) | [![CI](https://github.com/Dev9269/ssh-honeypot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ssh-honeypot/actions) | — | AI-driven honeypot with Ollama, MITRE ATT&CK | Python, Paramiko, Ollama |
+| 🎯 [CyberLab Pro](https://github.com/Dev9269/CyberLab-Pro) | — | — | CTF training platform with scoring | React, Node.js |
+| 🤖 [AI Chatbot](https://github.com/Dev9269/ai-chatbot) | [![CI](https://github.com/Dev9269/ai-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/ai-chatbot/actions) | [🔗 Live](https://dev9269.github.io/ai-chatbot/) | Conversational AI with streaming | Python, JS, Groq AI |
+| 🔐 [Password Toolkit](https://github.com/Dev9269/password-cracker-toolkit) | [![CI](https://github.com/Dev9269/password-cracker-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/password-cracker-toolkit/actions) | — | GPU-accelerated security toolkit | Python, CUDA |
+| 📚 [EduOS](https://github.com/Dev9269/eduos) | [![CI](https://github.com/Dev9269/eduos/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/eduos/actions) | — | Educational operating system | C++, Assembly |
+| 🌐 [Portfolio](https://github.com/Dev9269/portfolio) | [![CI](https://github.com/Dev9269/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev9269/portfolio/actions) | [🔗 Live](https://dev9269.github.io/portfolio/) | Portfolio project showcase | React, Next.js |
 
 <br/>
 <p align="center">
