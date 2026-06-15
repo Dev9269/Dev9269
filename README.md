@@ -1,127 +1,155 @@
+```text
+
+ ██████╗███████╗██╗   ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+ ██╔════╝██╔════╝╚██╗ ██╔╝██╔══██╗██║   ██║██╔══██╗████╗  ██║
+ ██║     █████╗   ╚████╔╝ ███████║██║   ██║███████║██╔██╗ ██║
+ ██║     ██╔══╝    ╚██╔╝  ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
+ ╚██████╗███████╗   ██║   ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
+  ╚═════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+```
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jainam+Maru;Full-Stack+Engineer+%7C+Security+Researcher;Code+with+intention+%C2%B7+Secure+with+ethics;7.5k%2B+Contributions+%7C+Building+the+future" alt="Typing SVG" />
-</div>
+
+```yaml
+USER: Jainam Maru
+ALIAS: Dev9269
+ROLE: Full-Stack Engineer | Security Researcher | OS Developer
+LOCATION: Surat, India
+MOTTO: "code with intention · secure with ethics"
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=sys.init%3A+loading+profile...;access+granted+%E2%9C%85;7.5k%2B+commits+%7C+security+research+active;system+ready.+welcome+back%2C+operator." alt="Typing SVG" />
 
 <br>
 
-<div align="center">
-  <a href="https://linkedin.com/in/jainam-maru"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Dev9269"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <br>
-  <img src="https://img.shields.io/github/followers/dev9269?logo=github&style=flat&color=6a11cb" />
-  <img src="https://img.shields.io/github/stars/dev9269?logo=github&style=flat&color=6a11cb" />
-  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://linkedin.com/in/jainam-maru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/Dev9269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+
+```yaml
+followers: $(curl -s https://img.shields.io/github/followers/dev9269?style=flat&color=00ff41&labelColor=0d1117)
+stars: $(curl -s https://img.shields.io/github/stars/dev9269?style=flat&color=00ff41&labelColor=0d1117)
+```
+
 </div>
 
+---
+
+<details open>
+<summary><code>root@dev9269:~# cat /etc/profile.d/about.sh</code></summary>
 <br>
 
+```bash
+# About the operator
+export NAME="Jainam Maru"
+export ALIAS="Dev9269"
+export LOCATION="Surat, India"
+export ROLE="Full-Stack Engineer | Security Researcher | OS Developer"
+export STATUS="Building AI-powered security tools and OS/kernel projects"
+
+# Currently learning
+export LEARNING=("Rust" "AI/ML Security" "Cloud Infrastructure" "Kernel Exploitation")
+
+# Looking to collaborate on
+export COLLAB=("Security tools" "Developer tooling" "OS projects" "Open source")
+
+# Ask me about
+export EXPERTISE=("Python" "React" "Cybersecurity" "System Design" "DevOps")
+
+# Fun fact
+export FUN_FACT="Automates everything. Coffee + late-night coding sessions = shipping."
+```
+
+</details>
+
 ---
 
-## 👋 About Me
+<details open>
+<summary><code>root@dev9269:~# ls -la /opt/projects/</code></summary>
+<br>
 
 <table>
   <tr>
-    <td width="60%">
-      <p>Full-stack engineer from <b>Surat, India</b> building secure, scalable systems at the intersection of software engineering and cybersecurity.</p>
-      <ul>
-        <li>🔭 Currently building <b>AI-powered security tools</b> and <b>OS/kernel projects</b></li>
-        <li>🌱 Deep diving into <b>Rust</b>, <b>AI/ML security</b>, and <b>cloud infrastructure</b></li>
-        <li>👯 Looking to collaborate on <b>open source security tools</b> and <b>developer tooling</b></li>
-        <li>💬 Ask me about <b>Python</b>, <b>React</b>, <b>cybersecurity</b>, or <b>anything tech</b></li>
-        <li>⚡ Fun fact: I automate everything. Coffee ☕ and late-night coding sessions</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://streak-stats.demolab.com?user=dev9269&hide_border=true&theme=purple-ice&date_format=j%2Fn%5B%2FY%5D" width="100%" />
-    </td>
+    <th>Project</th>
+    <th>Status</th>
+    <th>Tech Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><b>🛡️ SSH Honeypot v2.0</b></td>
+    <td><code>🟢 ACTIVE</code></td>
+    <td>Python, Paramiko, Ollama</td>
+    <td><a href="https://github.com/Dev9269/ssh-honeypot">→ Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI Chatbot</b></td>
+    <td><code>🟢 LIVE</code></td>
+    <td>Python, Groq, JavaScript</td>
+    <td><a href="https://github.com/Dev9269/ai-chatbot">→ Repo</a> · <a href="https://dev9269.github.io/ai-chatbot/">Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>🔐 Password Toolkit</b></td>
+    <td><code>🟢 ACTIVE</code></td>
+    <td>Python, CUDA</td>
+    <td><a href="https://github.com/Dev9269/password-cracker-toolkit">→ Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>🌐 Portfolio</b></td>
+    <td><code>🟢 LIVE</code></td>
+    <td>React, Vite, Tailwind</td>
+    <td><a href="https://github.com/Dev9269/portfolio">→ Repo</a> · <a href="https://dev9269.github.io/portfolio/">Site</a></td>
+  </tr>
+  <tr>
+    <td><b>📚 EduOS</b></td>
+    <td><code>🔵 PRIVATE</code></td>
+    <td>C++, Assembly</td>
+    <td>—</td>
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🛡️ <a href="https://github.com/Dev9269/ssh-honeypot">SSH Honeypot v2.0</a></h3>
-      <p>AI-powered honeypot with Ollama, MITRE ATT&CK mapping, session management</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-0891B2?logo=ollama&logoColor=white" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🤖 <a href="https://github.com/Dev9269/ai-chatbot">AI Chatbot</a></h3>
-      <p>Multi-language conversational AI with streaming, context-aware conversations</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-0891B2?logo=groq&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔐 <a href="https://github.com/Dev9269/password-cracker-toolkit">Password Toolkit</a></h3>
-      <p>GPU-accelerated security testing with rule-based attacks</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🌐 <a href="https://github.com/Dev9269/portfolio">Portfolio</a></h3>
-      <p>Personal portfolio built with React, Vite, and Tailwind CSS</p>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ My Toolkit
-
-<details open>
-  <summary><b>💻 Languages</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,rust,go,java,kotlin,bash,c,solidity&perline=11" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🧰 Frameworks & Libraries</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind,flutter&perline=7" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,gitlab,nginx,githubactions&perline=9" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🗄️ Databases</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&perline=6" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🔧 Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,postman,unity,selenium,vscode,linux&perline=6" />
-  </p>
 </details>
 
 ---
 
-## 🏆 Achievements
+<details open>
+<summary><code>root@dev9269:~# aptitude show tech-stack</code></summary>
+<br>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,rust,go,java,kotlin,bash,c,solidity&perline=11&theme=dark" />
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind,flutter&perline=7&theme=dark" />
+</p>
+
+<h3>Cloud & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,gitlab,nginx,githubactions&perline=9&theme=dark" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&perline=6&theme=dark" />
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,unity,selenium,vscode,linux&perline=6&theme=dark" />
+</p>
+
+</details>
+
+---
+
+<details open>
+<summary><code>root@dev9269:~# systemctl status achievements</code></summary>
+<br>
 
 <table>
   <tr>
@@ -131,82 +159,122 @@
   </tr>
   <tr>
     <td>⚡ <b>Quickdraw</b></td>
-    <td>5 / 5 PRs merged in &lt;5 min</td>
+    <td><code>[██████████] 5/5</code></td>
     <td>🏅 <b>Level 1</b></td>
   </tr>
   <tr>
     <td>🦅 <b>YOLO</b></td>
-    <td>5 / 5 PRs merged without review</td>
+    <td><code>[██████████] 5/5</code></td>
     <td>🏅 <b>Level 1</b></td>
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
-    <td>7 / 16 PRs merged</td>
-    <td>⬜ Level 1 (7 more to Level 2)</td>
+    <td><code>[████░░░░░░] 7/16</code></td>
+    <td>⬜ 9 more to Level 2</td>
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
-    <td>Added ❤️ to repo</td>
+    <td><code>[██████████] ✅</code></td>
     <td>✅ <b>Unlocked</b></td>
   </tr>
   <tr>
     <td>🧠 <b>Galaxy Brain</b></td>
-    <td>1 / 2 accepted answers</td>
+    <td><code>[█████░░░░░] 1/2</code></td>
     <td>⬜ 1 more answer needed</td>
   </tr>
   <tr>
     <td>⭐ <b>Starstruck</b></td>
-    <td>Get a repo with 16+ stars</td>
+    <td><code>[░░░░░░░░░░] 0/16</code></td>
     <td>⬜ Not yet</td>
   </tr>
 </table>
 
----
-
-## 🌍 Open Source Contributions
-
-<table>
-  <tr>
-    <th>Repository</th>
-    <th>Contribution</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/qeeqbox/social-analyzer">qeeqbox/social-analyzer</a></td>
-    <td>README documentation fixes</td>
-    <td>✅ Merged</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
-    <td>Fixed broken links & grammar</td>
-    <td>✅ Merged</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a></td>
-    <td>Grammar fix in README</td>
-    <td>✅ Merged</td>
-  </tr>
-</table>
+</details>
 
 ---
 
-## 📈 Weekly Development
+<details open>
+<summary><code>root@dev9269:~# curl -s https://api.github.com/contributions</code></summary>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PRs%20Merged-12-6a11cb?style=flat&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repositories-11-6a11cb?style=flat&labelColor=0d1117" />
+      </td>
+    </tr>
+  </table>
+
+  ```text
+  Weekly Language Breakdown
+  ─────────────────────────────────
+  Python      ██████████████░░░░░   56.3%
+  JavaScript  ██████░░░░░░░░░░░░░   18.7%
+  TypeScript  ████░░░░░░░░░░░░░░░   12.4%
+  C++         ██░░░░░░░░░░░░░░░░░    7.2%
+  Other       ██░░░░░░░░░░░░░░░░░    5.4%
+  ```
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><code>root@dev9269:~# cat /etc/opensource/contributions.log</code></summary>
+<br>
+
+| Repository | Contribution | Status |
+|---|---|---|
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | `✅ MERGED` |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Fixed broken links & grammar | `✅ MERGED` |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Grammar fix in README | `✅ MERGED` |
+
+</details>
+
+---
+
+<details>
+<summary><code>root@dev9269:~# traceroute -m 1 contact</code></summary>
+<br>
+
+<div align="center">
 
 ```
-Python      ██████████████░░░░░░░░░   56.3%
-JavaScript  ██████░░░░░░░░░░░░░░░░░   18.7%
-TypeScript  ████░░░░░░░░░░░░░░░░░░░   12.4%
-C++         ██░░░░░░░░░░░░░░░░░░░░░    7.2%
-Other       ██░░░░░░░░░░░░░░░░░░░░░    5.4%
+1.  LinkedIn     →  linkedin.com/in/jainam-maru
+2.  Twitter/X    →  @jainammaru_
+3.  Dev.to       →  dev.to/dev9269
+4.  Instagram    →  @jainammaru_
+5.  Email        →  Jainammaru567000@gmail.com
+6.  Buy me a ☕  →  buymeacoffee.com/jainammaru
 ```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dev9269&label=PROFILE+HITS&color=00ff41&style=flat&labelColor=0d1117" />
+
+</div>
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev9269&label=Profile+Views&color=6a11cb&style=flat" />
-  <br><br>
-  <i>"code with intention · secure with ethics"</i>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://ko-fi.com/jainammaru"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" /></a>
+
+```bash
+root@dev9269:~$ echo "code with intention · secure with ethics"
+code with intention · secure with ethics
+
+root@dev9269:~$ systemctl poweroff
+Connection closed. Have a secure day. 🛡️
+```
+
 </div>
