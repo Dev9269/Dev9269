@@ -1,15 +1,12 @@
 
 <div align="center">
 
-```yaml
-USER: Jase (Jainam H Maru)
-ALIAS: Dev9269
-DOMAIN: Cyber Security | Full-Stack Engineering | OS Development
-LOCATION: Surat, India
-MOTTO: "code with intention · secure with ethics"
-```
+# Jase (Jainam H Maru)
+### `Dev9269 · Cyber Security · Full-Stack Engineering · OS Development`
+### Surat, India
+### *"code with intention · secure with ethics"*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=cyber+security+enthusiast;offensive+%7C+defensive+%7C+always+learning;building+tools+that+protect;system+ready.+welcome+back%2C+operator." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=cyber+security+enthusiast;offensive+%7C+defensive+%7C+always+learning;building+tools+that+protect;system+ready.+welcome+back%2C+operator." alt="Typing SVG" />
 
 <br>
 
