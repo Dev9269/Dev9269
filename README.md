@@ -42,6 +42,20 @@ Full-stack engineer from **Surat, India**. I build secure, scalable systems at t
 
 ---
 
+## Achievements
+
+| Badge | Progress | How to Unlock |
+|---|---|---|
+| ⚡ **Quickdraw** | `█░░░░░░░░░` 1 / 1 | Merged a PR within 5 min of opening 🔓 |
+| 🔱 **Pull Shark** | `█░░░░░░░░░` 1 / 2 | Merge 2 pull requests (1 more needed) |
+| 🦅 **YOLO** | `█░░░░░░░░░` 1 / 1 | Merged a PR without review 🔓 |
+| ⭐ **Starstruck** | Have a repo with 16+ stars | Star a repo you own |
+| 🧠 **Galaxy Brain** | Answer in GitHub Discussions | 0 / 2 accepted answers |
+
+> **Note:** Badges appear on your profile after you meet the criteria. Some may take up to 24 hours to show.
+
+---
+
 ## Open Source Contributions
 
 | Repository | Contribution | Status |
