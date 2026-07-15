@@ -139,18 +139,18 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>⚡ <b>Quickdraw</b></td>
-    <td>5 / 5 PRs merged in less than 5 min</td>
-    <td>🏅 <b>Level 1</b></td>
+    <td>9 / 20 PRs merged in less than 5 min</td>
+    <td>🏅 <b>Level 1</b> (11 to Level 2)</td>
   </tr>
   <tr>
     <td>🦅 <b>YOLO</b></td>
-    <td>5 / 5 PRs merged without review</td>
-    <td>🏅 <b>Level 1</b></td>
+    <td>9 / 25 PRs merged without review</td>
+    <td>🏅 <b>Level 1</b> (16 to Level 2)</td>
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
-    <td>7 / 16 PRs merged</td>
-    <td>⬜ 9 more to Level 2</td>
+    <td>11 / 16 PRs merged</td>
+    <td>🏅 <b>Level 3</b> (5 to Level 4)</td>
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
@@ -180,7 +180,7 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <div align="center">
 
 <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-12-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-16-6a11cb?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Repositories-11-6a11cb?style=flat&labelColor=0d1117" />
 
 <br><br>
