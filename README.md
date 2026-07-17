@@ -273,6 +273,11 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td>Fixed Unicode password handling on Windows</td>
     <td><b>✅ Fixed #4</b></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/aditya226-sharma/skateboard-">aditya226-sharma/skateboard-</a></td>
+    <td>Next.js 15 skateboard brand site (3D, physics, CMS)</td>
+    <td><b>✅ Collaborator</b></td>
+  </tr>
 </table>
 
 <br>
