@@ -4,7 +4,7 @@
 
 ### `Dev9269 · Cyber Security · Full-Stack Engineering · OS Development`
 
-### Surat, India
+### Vadodara, India
 
 ### *"code with intention · secure with ethics"*
 
@@ -149,8 +149,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
-    <td>11 / 16 PRs merged</td>
-    <td>🏅 <b>Level 3</b> (5 to Level 4)</td>
+    <td>12 / 16 PRs merged</td>
+    <td>🏅 <b>Level 3</b> (4 to Level 4)</td>
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
@@ -180,8 +180,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <div align="center">
 
 <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-16-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Repositories-11-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-17-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Repositories-12-6a11cb?style=flat&labelColor=0d1117" />
 
 <br><br>
 
@@ -280,8 +280,8 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
   </tr>
   <tr>
     <td><a href="https://github.com/aditya226-sharma/skateboard-">aditya226-sharma/skateboard-</a></td>
-    <td>Next.js 15 skateboard brand site (3D, physics, CMS)</td>
-    <td><b>✅ Collaborator</b></td>
+    <td>Added CI workflow (lint + build pipeline)</td>
+    <td><b>✅ Merged</b></td>
   </tr>
 </table>
 
