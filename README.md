@@ -283,6 +283,21 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td>Added CI workflow (lint + build pipeline)</td>
     <td><b>✅ Merged</b></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
+    <td>Added new Japan fact to community content</td>
+    <td><b>✅ PR #25108</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
+    <td>Added video game quote to community content</td>
+    <td><b>✅ PR #25109</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/password-cracker-toolkit">Dev9269/password-cracker-toolkit</a></td>
+    <td>Added batch cracking mode with file input and export</td>
+    <td><b>✅ Merged</b></td>
+  </tr>
 </table>
 
 <br>
