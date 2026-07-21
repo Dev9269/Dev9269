@@ -175,8 +175,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
-    <td>Added heart emoji to repo description</td>
-    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /></td>
+    <td>❤️ Added to portfolio repo description</td>
+    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /><br><small>Just added — may take a few min</small></td>
   </tr>
   <tr>
     <td>🧠 <b>Galaxy Brain</b></td>
@@ -209,6 +209,7 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 | Badge | How to Unlock | Your Progress |
 |-------|--------------|---------------|
 | ⭐ <b>Starstruck</b> | Get 16 stars on any public repo | 🚀 Share password-cracker-toolkit & portfolio on Reddit, Twitter, Dev.to |
+| 💖 <b>Heart on Your Sleeve</b> | Add ❤️ to any public repo description | ✅ Just added to portfolio repo — check in a few min |
 | 🧠 <b>Galaxy Brain L1</b> | Get 2 accepted answers in GitHub Discussions | 🎯 Answer 1 more question in a repo's Discussions tab |
 | 🗂️ <b>Pair Extraordinaire</b> | Co-author a commit with `Co-authored-by:` trailer | 🤝 Find a collab partner and co-author one commit |
 | 📦 <b>Public Sponsor</b> | Sponsor an open-source project via GitHub Sponsors | 💰 Sponsor any project you use (even $1/month counts) |
