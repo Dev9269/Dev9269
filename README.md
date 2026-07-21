@@ -139,7 +139,16 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 
 ---
 
-<h2>🏆 Achievements</h2>
+<h2>🏆 GitHub Achievements</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Achievements-3%20Unlocked-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Level%20Total-6-00ff41?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 
 <br>
 
@@ -151,54 +160,66 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>⚡ <b>Quickdraw</b></td>
-    <td>23+ / 20 PRs merged in less than 5 min</td>
-    <td>🏅 <b>Level 2</b></td>
+    <td>23+ / 20 PRs merged within 5 min of opening</td>
+    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>🦅 <b>YOLO</b></td>
     <td>23+ / 25 PRs merged without review</td>
-    <td>🏅 <b>Level 1</b> (2 to Level 2)</td>
+    <td><img src="https://img.shields.io/badge/Level%201-FFA500?style=flat&labelColor=0d1117" /><br><small>2 to Level 2</small></td>
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
     <td>12 / 16 PRs merged</td>
-    <td>🏅 <b>Level 3</b> (4 to Level 4)</td>
+    <td><img src="https://img.shields.io/badge/Level%203-00ff41?style=flat&labelColor=0d1117" /><br><small>4 to Level 4</small></td>
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
-    <td>Added heart emoji to repo</td>
-    <td>✅ <b>Unlocked</b></td>
+    <td>Added heart emoji to repo description</td>
+    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>🧠 <b>Galaxy Brain</b></td>
-    <td>1 / 2 accepted answers</td>
-    <td>⬜ 1 more needed</td>
+    <td>1 / 2 accepted answers in Discussions</td>
+    <td><img src="https://img.shields.io/badge/⬜%201%20More-808080?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>⭐ <b>Starstruck</b></td>
-    <td>0 / 16 stars on a repo</td>
-    <td>⬜ Not yet</td>
+    <td>0 / 16 stars on a single repo</td>
+    <td><img src="https://img.shields.io/badge/⬜%20Locked-808080?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>🗂️ <b>Pair Extraordinaire</b></td>
-    <td>Co-authored commits across multiple repos</td>
-    <td>✅ <b>Unlocked</b></td>
+    <td>Co-authored commits with other developers</td>
+    <td><img src="https://img.shields.io/badge/⬜%20Locked-808080?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>📦 <b>Public Sponsor</b></td>
-    <td>Sponsoring open-source projects</td>
-    <td>⬜ <b>Not yet</b></td>
-  </tr>
-  <tr>
-    <td>🌙 <b>Dark Mode Advocate</b></td>
-    <td>All repos ship with dark mode support</td>
-    <td>✅ <b>Unlocked</b></td>
+    <td>Sponsor open-source via GitHub Sponsors</td>
+    <td><img src="https://img.shields.io/badge/⬜%20Locked-808080?style=flat&labelColor=0d1117" /></td>
   </tr>
 </table>
 
 <br>
 
-<h2>🛡️ Security Arsenal</h2>
+<details>
+<summary><b>📖 How to unlock more GitHub Achievements</b></summary>
+<br>
+
+| Badge | How to Unlock | Your Progress |
+|-------|--------------|---------------|
+| ⭐ <b>Starstruck</b> | Get 16 stars on any public repo | 🚀 Share password-cracker-toolkit & portfolio on Reddit, Twitter, Dev.to |
+| 🧠 <b>Galaxy Brain L1</b> | Get 2 accepted answers in GitHub Discussions | 🎯 Answer 1 more question in a repo's Discussions tab |
+| 🗂️ <b>Pair Extraordinaire</b> | Co-author a commit with `Co-authored-by:` trailer | 🤝 Find a collab partner and co-author one commit |
+| 📦 <b>Public Sponsor</b> | Sponsor an open-source project via GitHub Sponsors | 💰 Sponsor any project you use (even $1/month counts) |
+| 🔱 <b>Pull Shark L4</b> | Merge 32 PRs | 📈 You're at 12 — keep contributing! |
+| ⚡ <b>Quickdraw L3</b> | Merge 48 PRs within 5 min | 📈 You're at 23+ — halfway there! |
+
+</details>
+
+<br>
+
+<h2>🛡️ Badge Collection</h2>
 
 <br>
 
@@ -209,8 +230,26 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <img src="https://img.shields.io/badge/Attack%20Modes-6-00ff41?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Tests%20Passing-127-00ff41?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Tools%20Built-10%2B-00ff41?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Zero%20Trust-Lab%20Deployed-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Zero%20Trust%20Lab-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hackathons-3%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OS%20Distros%20Built-1-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-55%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Repos-19-00ff41?style=flat&labelColor=0d1117" />
 
+<br><br>
+
+<b>🖥️ Platform Badges</b>
+<br><br>
+<a href="https://tryhackme.com/p/Dev9269"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-Writer-0A0A0A?style=flat&logo=dev.to&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://leetcode.com/u/Dev9269"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/jainam-h-maru"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/GitHub%20Stars-68-00ff41?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Followers-8-00ff41?style=flat&logo=github&logoColor=white&labelColor=0d1117" />
+
+<br><br>
+
+<b>⚙️ Skill Badges</b>
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white&labelColor=0d1117" />
@@ -225,6 +264,36 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <img src="https://img.shields.io/badge/Metasploit-Intermediate-4479A1?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Linux%20Admin-Pro-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Git%2FGitHub-Pro-F05032?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-Pro-61DAFB?style=flat&logo=react&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-Pro-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Flask-Intermediate-000000?style=flat&logo=flask&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FastAPI-Intermediate-009688?style=flat&logo=fastapi&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Django-Intermediate-092E20?style=flat&logo=django&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rust-Learning-000000?style=flat&logo=rust&logoColor=white&labelColor=0d1117" />
+
+<br><br>
+
+<b>🎖️ CTF & Competition Badges</b>
+<br><br>
+
+<img src="https://img.shields.io/badge/E--Rakshak%20CTF-Top%2025%25-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/E--Rakshak%20CTF-39th%20%2F%20157-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NHAI%20Hackathon-National%20Participant-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CTF%20Best%20Score-2713-00ff41?style=flat&labelColor=0d1117" />
+
+<br><br>
+
+<b>📦 Project Release Badges</b>
+<br><br>
+
+<img src="https://img.shields.io/badge/password--cracker--toolkit-v2.1.0-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ssh--honeypot-v2.0-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/EduOS-1.0-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Zero%20Trust%20Lab-v1.0-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI%20Chatbot-v1.0-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Dark%20Sentinel-v1.0-00ff41?style=flat&labelColor=0d1117" />
 
 </div>
 
