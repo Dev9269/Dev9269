@@ -308,42 +308,34 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   <tr>
     <th>Milestone</th>
     <th>Project</th>
-    <th>Date</th>
   </tr>
   <tr>
     <td>🚀 <b>v2.1.0 Release</b></td>
     <td>Password Cracker Toolkit</td>
-    <td>2026-07</td>
   </tr>
   <tr>
     <td>🧪 <b>127 Tests Passing</b></td>
     <td>Password Cracker Toolkit</td>
-    <td>2026-07</td>
   </tr>
   <tr>
     <td>🏗️ <b>Zero Trust Lab Deployed</b></td>
     <td>Zero Trust Lab</td>
-    <td>2026-06</td>
   </tr>
   <tr>
     <td>🎓 <b>EduOS Built</b></td>
     <td>EduOS / CyberLab Pro</td>
-    <td>2025</td>
   </tr>
   <tr>
     <td>🏆 <b>E-Rakshak CTF Top 25%</b></td>
     <td>Caffeine and Code</td>
-    <td>2024</td>
   </tr>
   <tr>
     <td>🤖 <b>AI Chatbot Deployed</b></td>
     <td>AI Chatbot (Groq + Llama 3.3)</td>
-    <td>2025</td>
   </tr>
   <tr>
     <td>🌑 <b>OSINT Crawler Built</b></td>
     <td>Dark Sentinel</td>
-    <td>2025</td>
   </tr>
 </table>
 
