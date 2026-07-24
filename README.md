@@ -160,23 +160,23 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>⚡ <b>Quickdraw</b></td>
-    <td>23+ / 20 PRs merged within 5 min of opening</td>
-    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /></td>
+    <td>33+ / 20 PRs merged within 5 min of opening</td>
+    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /><br><small>15 to Level 3</small></td>
   </tr>
   <tr>
     <td>🦅 <b>YOLO</b></td>
-    <td>23+ / 25 PRs merged without review</td>
-    <td><img src="https://img.shields.io/badge/Level%201-FFA500?style=flat&labelColor=0d1117" /><br><small>2 to Level 2</small></td>
+    <td>33+ / 25 PRs merged without review</td>
+    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /><br><small>15 to Level 3</small></td>
   </tr>
   <tr>
     <td>🔱 <b>Pull Shark</b></td>
-    <td>12 / 16 PRs merged</td>
-    <td><img src="https://img.shields.io/badge/Level%203-00ff41?style=flat&labelColor=0d1117" /><br><small>4 to Level 4</small></td>
+    <td>22 / 32 PRs merged</td>
+    <td><img src="https://img.shields.io/badge/Level%203-00ff41?style=flat&labelColor=0d1117" /><br><small>10 to Level 4</small></td>
   </tr>
   <tr>
     <td>💖 <b>Heart on Your Sleeve</b></td>
-    <td>❤️ Added to portfolio repo description</td>
-    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /><br><small>Just added — may take a few min</small></td>
+    <td>❤️ Added to portfolio + zero-trust-lab repo descriptions</td>
+    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /></td>
   </tr>
   <tr>
     <td>🧠 <b>Galaxy Brain</b></td>
@@ -190,8 +190,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>🗂️ <b>Pair Extraordinaire</b></td>
-    <td>Co-authored with Aditya Sharma on profile repo</td>
-    <td><img src="https://img.shields.io/badge/✅%20Unlocked-00ff41?style=flat&labelColor=0d1117" /><br><small>Just pushed</small></td>
+    <td>Co-authored with Alicia Sykes (@lissy93) on zero-trust-lab (10 PRs) + Aditya Sharma</td>
+    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /><br><small>10 co-authored PRs</small></td>
   </tr>
   <tr>
     <td>📦 <b>Public Sponsor</b></td>
@@ -213,8 +213,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 | 🧠 <b>Galaxy Brain L1</b> | Get 2 accepted answers in GitHub Discussions | 🎯 Answer 1 more question in a repo's Discussions tab |
 | 🗂️ <b>Pair Extraordinaire</b> | Co-author a commit with `Co-authored-by:` trailer | ✅ Just pushed with Aditya Sharma — check in a few min |
 | 📦 <b>Public Sponsor</b> | Sponsor an open-source project via GitHub Sponsors | 💰 Sponsor any project you use (even $1/month counts) |
-| 🔱 <b>Pull Shark L4</b> | Merge 32 PRs | 📈 You're at 12 — keep contributing! |
-| ⚡ <b>Quickdraw L3</b> | Merge 48 PRs within 5 min | 📈 You're at 23+ — halfway there! |
+| 🔱 <b>Pull Shark L4</b> | Merge 32 PRs | 📈 You're at 22 — 10 to go! |
+| ⚡ <b>Quickdraw L3</b> | Merge 48 PRs within 5 min | 📈 You're at 33+ — 15 to go! |
 
 </details>
 
@@ -321,7 +321,7 @@ A massive thank you to **Alicia Sykes** for inspiring this repo through her incr
 <img src="https://img.shields.io/badge/Zero%20Trust%20Lab-00ff41?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Hackathons-3%2B-00ff41?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OS%20Distros%20Built-1-00ff41?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-55%2B-00ff41?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-65%2B-00ff41?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Repos-19-00ff41?style=flat&labelColor=0d1117" />
 
 <br><br>
@@ -445,7 +445,7 @@ A massive thank you to **Alicia Sykes** for inspiring this repo through her incr
 <div align="center">
 
 <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-55-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-65-6a11cb?style=flat&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Repositories-14-6a11cb?style=flat&labelColor=0d1117" />
 
 <br><br>
@@ -592,6 +592,61 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td><a href="https://github.com/aditya226-sharma/story-teller-">aditya226-sharma/story-teller-</a></td>
     <td>Added CI workflow with lint + build pipeline</td>
     <td><b>✅ PR #2</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added health_utils.py — port wait + HTTP readiness checks</td>
+    <td><b>✅ PR #2</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added security section to CONTRIBUTING.md</td>
+    <td><b>✅ PR #3</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added .editorconfig for consistent coding styles</td>
+    <td><b>✅ PR #4</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added CODEOWNERS for PR review assignments</td>
+    <td><b>✅ PR #5</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Updated .gitignore with editor and OS temp files</td>
+    <td><b>✅ PR #6</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added pytest.ini with test discovery config</td>
+    <td><b>✅ PR #7</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added pyproject.toml with build-system config</td>
+    <td><b>✅ PR #8</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added rate-limiting docs and API rate limit zone</td>
+    <td><b>✅ PR #9</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added HEALTHCHECK to Dockerfiles</td>
+    <td><b>✅ PR #10</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
+    <td>Added GitHub issue/PR templates</td>
+    <td><b>✅ PR #11</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
+    <td>Added SECURITY.md with vulnerability disclosure policy</td>
+    <td><b>⏳ PR #322</b></td>
   </tr>
 </table>
 
