@@ -190,8 +190,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td>🗂️ <b>Pair Extraordinaire</b></td>
-    <td>Co-authored with Alicia Sykes (@lissy93) on zero-trust-lab (10 PRs) + Aditya Sharma</td>
-    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /><br><small>10 co-authored PRs</small></td>
+    <td>Co-authored with Alicia Sykes (@lissy93) on zero-trust-lab (10 PRs) + web-check (1 PR) + Aditya Sharma</td>
+    <td><img src="https://img.shields.io/badge/Level%202-00ff41?style=flat&labelColor=0d1117" /><br><small>11 co-authored PRs</small></td>
   </tr>
   <tr>
     <td>📦 <b>Public Sponsor</b></td>
@@ -547,6 +547,11 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td><a href="https://github.com/Dev9269/zero-trust-lab">Dev9269/zero-trust-lab</a></td>
     <td>Added GitHub issue/PR templates</td>
     <td><b>✅ PR #11</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
+    <td>Fixed non-routable IP detection — simplified logic, fixed 172.x range bug</td>
+    <td><b>⏳ PR #320</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
