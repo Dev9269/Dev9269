@@ -4,12 +4,12 @@
 ```yaml
 USER: Jase (Jainam H Maru)
 ALIAS: Dev9269
-ROLE: Full-Stack Engineer | Security Researcher | OS Developer
+DOMAIN: Cyber Security | Full-Stack Engineering | OS Development
 LOCATION: Surat, India
 MOTTO: "code with intention · secure with ethics"
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=sys.init%3A+loading+profile...;access+granted+%E2%9C%85;7.5k%2B+commits+%7C+security+research+active;system+ready.+welcome+back%2C+operator." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=cyber+security+enthusiast;offensive+%7C+defensive+%7C+always+learning;building+tools+that+protect;system+ready.+welcome+back%2C+operator." alt="Typing SVG" />
 
 <br>
 
