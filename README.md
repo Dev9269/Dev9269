@@ -165,3 +165,19 @@ I don't just write code — I document everything, CI-test everything, and open-
 
 <sub align="center"><i>"Code with intention. Secure with ethics." — Jainam H. Maru</i></sub>
 </div>
+
+
+<!-- PROFILE_VIEWS:START -->
+
+<details>
+<summary><b>📊 Monthly Profile Views</b> (Total: 542)</summary>
+<br>
+
+| Month | Start | Peak | End | Growth |
+|-------|-------|------|-----|--------|
+| 2026-08 | 521 | 542 | 542 | 21 |
+| 2026-07 | 196 | 503 | 503 | 307 |
+
+</details>
+
+<!-- PROFILE_VIEWS:END -->
