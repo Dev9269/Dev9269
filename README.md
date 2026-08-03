@@ -269,6 +269,11 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td><b>✅ PR #320</b></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
+    <td>Improved DNS server error message clarity</td>
+    <td><b>✅ PR #321</b></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Dev9269/password-cracker-toolkit">Dev9269/password-cracker-toolkit</a></td>
     <td>Fixed Unicode password handling on Windows</td>
     <td><b>✅ Fixed #4</b></td>
