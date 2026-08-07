@@ -115,6 +115,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dev9269&theme=flat&no-frame=true&row=2&column=4" alt="trophy" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev9269&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
+</p>
+
 ---
 
 ### 📁 Projects
