@@ -53,36 +53,36 @@ focus:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ SSH Honeypot</h3>
+      <h3>🛡️ SSH Honeypot <a href="https://github.com/Dev9269/ssh-honeypot">🔗</a></h3>
       <p>AI-powered honeypot with Ollama threat analysis, MITRE ATT&CK mapping, and real-time dashboards</p>
       <p><code>Python</code> <code>Paramiko</code> <code>Ollama</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Password Cracker Toolkit</h3>
+      <h3>🔐 Password Cracker Toolkit <a href="https://github.com/Dev9269/password-cracker-toolkit">🔗</a></h3>
       <p>Industrial-grade cracking suite — mask attack, rule engine, combinator, session persistence, multiprocessing</p>
       <p><code>Python</code> <code>CUDA</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕵️ Malware Detector</h3>
+      <h3>🕵️ Malware Detector <a href="https://malware-detector-production.up.railway.app">🚀</a> <a href="https://github.com/Dev9269/malware-detector">🔗</a></h3>
       <p>AI-powered PE malware analysis — static analysis, YARA rules, Random Forest + EMBER 2381-feature ML, SHAP</p>
       <p><code>Python</code> <code>FastAPI</code> <code>scikit-learn</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌑 Dark Sentinel</h3>
+      <h3>🌑 Dark Sentinel <a href="https://github.com/Dev9269/dark-sentinel">🔗</a></h3>
       <p>OSINT dark-web crawler with NLP sentiment analysis, geo-tagging, and real-time React dashboard</p>
       <p><code>Python</code> <code>React</code> <code>Flask</code> <code>NLP</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 EduOS</h3>
+      <h3>🎓 EduOS <a href="https://github.com/Dev9269/EduOS">🔗</a></h3>
       <p>Debian-based educational OS with secure exam mode, integrated cyber lab, and admin center</p>
       <p><code>Python</code> <code>PyQt6</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Zero Trust Lab</h3>
+      <h3>🏛️ Zero Trust Lab <a href="https://github.com/Dev9269/zero-trust-lab">🔗</a></h3>
       <p>CISA Zero Trust Maturity Model — nginx + OPA + oauth2-proxy + Authentik</p>
       <p><code>Docker</code> <code>OPA</code></p>
     </td>
