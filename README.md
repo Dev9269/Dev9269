@@ -97,7 +97,7 @@ I don't just write code — I document everything, CI-test everything, and open-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-7%2C385-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Total_Contributions-8%2C592-00FF41?style=for-the-badge&labelColor=0d1117" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev9269&theme=radical" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev9269&theme=radical" height="175" />
