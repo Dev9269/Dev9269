@@ -1,184 +1,191 @@
-```text
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6a11cb,100:2575fc&text=Jainam%20Maru&fontAlignY=35&fontSize=60&desc=Full-Stack%20Engineer%20•%20Security%20•%20OS%20Dev&descAlignY=55&descSize=18&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6a11cb,100:2575fc&text=Jainam%20Maru&fontAlignY=35&fontSize=60&desc=Full-Stack%20Engineer%20•%20Security%20•%20OS%20Dev&descAlignY=55&descSize=18&animation=twinkling" />
+  </picture>
+</div>
 
- ██████╗███████╗██╗   ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
- ██╔════╝██╔════╝╚██╗ ██╔╝██╔══██╗██║   ██║██╔══██╗████╗  ██║
- ██║     █████╗   ╚████╔╝ ███████║██║   ██║███████║██╔██╗ ██║
- ██║     ██╔══╝    ╚██╔╝  ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
- ╚██████╗███████╗   ██║   ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
-  ╚═════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
-
-```
-
-<h3 align="center">
-  <code>ROOT@DEV9269:~# whoami</code>
-</h3>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=Jainam+Maru+%7E+Full-Stack+Engineer;Offensive+%26+Defensive+Security;OS+Developer+%7C+Tool+Builder;7.5k%2B+Commits+%7C+389+Day+Streak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jainam;Code+with+intention+%C2%B7+Secure+with+ethics;7.5k%2B+Contributions+%7C+389+Day+Streak;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jainam-maru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" /></a>
-  <a href="https://github.com/Dev9269"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" /></a>
-  <a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000" /></a>
-  <a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000" /></a>
-  <a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000" /></a>
+  <a href="https://linkedin.com/in/jainam-maru"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Dev9269"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <sub><code>✦ ethical engineering · secure architecture · open source ✦</code></sub>
+  <img src="https://komarev.com/ghpvc/?username=dev9269&label=Profile+Views&color=6a11cb&style=flat" />
+  <img src="https://img.shields.io/github/followers/dev9269?logo=github&style=flat&color=6a11cb" />
+  <img src="https://img.shields.io/github/stars/dev9269?logo=github&style=flat&color=6a11cb" />
 </p>
 
 <br>
 
-<details open>
-<summary><code>ROOT@DEV9269:~$ cat /etc/passwd | grep jainam</code></summary>
-<br>
+---
 
-```yaml
-user: jainam
-name: Jainam Maru
-alias: Dev9269
-location: Surat, India
-languages:
-  - Python
-  - JavaScript / TypeScript
-  - C++
-  - Rust
-  - Go
-  - Bash
-  - Java
-  - Kotlin
-focus:
-  - Full-Stack Engineering
-  - Cybersecurity (Offensive & Defensive)
-  - OS / Kernel Development
-  - Tool & Framework Building
-status: building the next thing 🚀
-```
+<h2 align="center">👨‍💻 About Me</h2>
 
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧑‍💻 <b>Who I Am</b></h3>
+      <p>Full-stack engineer from <b>Surat, India</b>. I build secure, scalable systems and explore the intersection of software engineering and cybersecurity.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎯 <b>What I Do</b></h3>
+      <p>Craft web apps, penetration testing tools, operating systems, and everything in between. Currently building AI-powered security solutions.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌱 <b>What I Love</b></h3>
+      <p>Open source, CTF challenges, kernel hacking, and automating everything. Coffee ☕ and late-night coding sessions.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<details open>
-<summary><code>ROOT@DEV9269:~$ ps aux | grep -E "project|active"</code></summary>
-<br>
+---
 
-| PID | PROJECT | STACK | STATUS | PORT |
-|-----|---------|-------|--------|------|
-| 1337 | [🛡️ SSH Honeypot v2.0](https://github.com/Dev9269/ssh-honeypot) | Python, Paramiko, Ollama | `ACTIVE` | 2222 |
-| 2049 | [🤖 AI Chatbot](https://github.com/Dev9269/ai-chatbot) | Python, Groq, JS | `LIVE` → [demo](https://dev9269.github.io/ai-chatbot/) | 3000 |
-| 4096 | [🔐 Password Toolkit](https://github.com/Dev9269/password-cracker-toolkit) | Python, CUDA | `ACTIVE` | — |
-| 8080 | [🌐 Portfolio](https://github.com/Dev9269/portfolio) | React, Vite, Tailwind | `LIVE` → [site](https://dev9269.github.io/portfolio/) | 80 |
-| 0xED | [📚 EduOS](https://github.com/Dev9269/eduos) | C++, Assembly | `PRIVATE` | — |
-
-</details>
-
-<br>
-
-<details open>
-<summary><code>ROOT@DEV9269:~$ top -b -n 1 | head -20</code></summary>
-<br>
+<h2 align="center">⚡ Current Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&bg_color=0d1117" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=dev9269&hide_border=true&theme=chartreuse-dark&date_format=M+j%5B%2C+Y%5D&background=0d1117" width="49%" />
+  <a href="https://github.com/Dev9269/ssh-honeypot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev9269&repo=ssh-honeypot&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+  </a>
+  <a href="https://github.com/Dev9269/ai-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev9269&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev9269&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=12&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev9269&hide_border=true&theme=chartreuse-dark&layout=compact&bg_color=0d1117" width="49%" />
+  <a href="https://github.com/Dev9269/password-cracker-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev9269&repo=password-cracker-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+  </a>
+  <a href="https://github.com/Dev9269/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev9269&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev9269&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev9269&layout=compact&hide_border=true&theme=tokyonight&langs_count=12&bg_color=0d1117" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev9269&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Kernel+Activity+Log&hide_title=false&bg_color=0d1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev9269&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution+Graph&hide_title=false&bg_color=0d1117" width="100%" />
 </p>
 
-</details>
+<br>
+
+---
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,rust,go,java,kotlin,bash,c,solidity&perline=11" />
+</p>
+
+<h3 align="center">Frontend & Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&perline=6" />
+</p>
+
+<h3 align="center">Backend & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,kubernetes,terraform,gitlab,nginx&perline=8" />
+</p>
+
+<h3 align="center">Cloud & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,postgres,mysql,redis,firebase&perline=8" />
+</p>
+
+<h3 align="center">Tools & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,unity,selenium,vscode,linux&perline=6" />
+</p>
 
 <br>
 
-<details open>
-<summary><code>ROOT@DEV9269:~$ netstat -tlnp | grep -i opensource</code></summary>
+---
+
+<h2 align="center">🌍 Open Source</h2>
+
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Contribution</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/qeeqbox/social-analyzer">qeeqbox/social-analyzer</a></td>
+    <td>README documentation fixes</td>
+    <td><b>✅ Merged</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lissy93/web-check">lissy93/web-check</a></td>
+    <td>Fixed broken links & grammar</td>
+    <td><b>✅ Merged</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a></td>
+    <td>Grammar fix in README</td>
+    <td><b>✅ Merged</b></td>
+  </tr>
+</table>
+
 <br>
 
-| REPO | CONTRIBUTION | STATUS |
-|------|-------------|--------|
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | `✅ MERGED` |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Fixed broken links & grammar | `✅ MERGED` |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Grammar fix in README | `✅ MERGED` |
+---
 
-</details>
-
-<br>
-
-<details>
-<summary><code>ROOT@DEV9269:~$ lspci -v | grep -E "stack|framework"</code></summary>
-<br>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=333" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=333" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev9269&theme=tokyonight&no-frame=true&row=2&column=4&no-bg=true" />
 </p>
 
-</details>
-
 <br>
 
-<details>
-<summary><code>ROOT@DEV9269:~$ cat /proc/uptime</code></summary>
-<br>
+---
+
+<h2 align="center">📈 Weekly Breakdown</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev9269&theme=chalk&no-frame=true&row=2&column=4&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev9269&hide_border=true&theme=tokyonight&layout=compact&bg_color=0d1117" width="60%" />
 </p>
 
-</details>
-
 <br>
 
-<details>
-<summary><code>ROOT@DEV9269:~$ df -h --output=weekly</code></summary>
-<br>
-
-```text
-Python      ██████████████░░░░░░░░░   56.3%
-JavaScript  ██████░░░░░░░░░░░░░░░░░   18.7%
-TypeScript  ████░░░░░░░░░░░░░░░░░░░   12.4%
-C++         ██░░░░░░░░░░░░░░░░░░░░░    7.2%
-Other       ██░░░░░░░░░░░░░░░░░░░░░    5.4%
-```
-
-</details>
-
-<br>
-<hr>
-<br>
+---
 
 <p align="center">
-  <code>ROOT@DEV9269:~$ echo "code with intention · secure with ethics"</code>
+  <i>"code with intention · secure with ethics"</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=dev9269&label=Profile+Views&color=6a11cb&style=flat" />
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/jainammaru"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev9269&label=PROFILE+HITS&color=00ff41&style=flat&labelColor=000" />
-  <img src="https://img.shields.io/github/followers/dev9269?logo=github&style=flat&color=00ff41&labelColor=000" />
-  <img src="https://img.shields.io/github/stars/dev9269?logo=github&style=flat&color=00ff41&labelColor=000" />
-  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black&labelColor=000" /></a>
-</p>
+<br>
 
-<p align="center">
-  <sub><code>✦ last updated: $(date +%s) UTC ✦</code></sub>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575fc,100:6a11cb&section=footer&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575fc,100:6a11cb&section=footer&animation=twinkling" />
+  </picture>
+</div>
