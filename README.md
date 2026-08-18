@@ -12,7 +12,7 @@
 <div align="center">
 
 ```yaml
-USER: Jainam Maru
+USER: Jainam H Maru
 ALIAS: Dev9269
 ROLE: Full-Stack Engineer | Security Researcher | OS Developer
 LOCATION: Surat, India
@@ -43,24 +43,68 @@ stars: $(curl -s https://img.shields.io/github/stars/dev9269?style=flat&color=00
 <br>
 
 ```bash
-# About the operator
-export NAME="Jainam Maru"
+# ============================================================
+# PROFILE: Jainam H Maru (Dev9269)
+# LOCATION: Surat, India
+# ROLE: Full-Stack Engineer | Offensive Security | OS Developer
+# ============================================================
+
+export NAME="Jainam H Maru"
 export ALIAS="Dev9269"
-export LOCATION="Surat, India"
-export ROLE="Full-Stack Engineer | Security Researcher | OS Developer"
-export STATUS="Building AI-powered security tools and OS/kernel projects"
+export LOCATION="Surat, Gujarat, India"
+export TIMEZONE="Asia/Kolkata (UTC+5:30)"
 
-# Currently learning
-export LEARNING=("Rust" "AI/ML Security" "Cloud Infrastructure" "Kernel Exploitation")
+# ---- WHO I AM ----
+export BIO="A passionate full-stack engineer and cybersecurity enthusiast driven by 
+  curiosity about how systems work — and how they break. I live at the intersection 
+  of software engineering and offensive security, building tools that protect while 
+  exploring the edges of what's possible. Whether it's crafting AI-powered honeypots, 
+  reverse-engineering binaries, or developing operating systems from scratch, I thrive 
+  on deep technical challenges that most people run away from."
 
-# Looking to collaborate on
-export COLLAB=("Security tools" "Developer tooling" "OS projects" "Open source")
+# ---- WHAT I DO ----
+export ROLE_DESC="I build secure, scalable systems and security tools. 
+  By day (and most nights), I engineer full-stack applications, 
+  architect cloud infrastructure, and write automation that makes 
+  other developers' lives easier. By passion, I'm a hacker — 
+  I break things to understand them, contribute to open-source 
+  security projects, and constantly push my knowledge of 
+  exploitation, defense, and low-level systems."
 
-# Ask me about
-export EXPERTISE=("Python" "React" "Cybersecurity" "System Design" "DevOps")
+# ---- CURRENT FOCUS ----
+export STATUS="Building AI-powered security tools, OS kernel projects, and contributing to open source"
 
-# Fun fact
-export FUN_FACT="Automates everything. Coffee + late-night coding sessions = shipping."
+# ---- LEARNING PATH ----
+export LEARNING=(
+  "Rust — for safe systems programming"
+  "AI/ML Security — adversarial ML & detection"
+  "Kernel Exploitation — understanding at ring 0"
+  "Cloud Security — AWS/GCP pentesting"
+  "Reverse Engineering — malware analysis"
+)
+
+# ---- OPEN TO COLLAB ----
+export COLLAB=(
+  "Security tooling & frameworks"
+  "OS/Kernel development"
+  "CTF challenge design"
+  "Developer tooling & automation"
+)
+
+# ---- ASK ME ABOUT ----
+export EXPERTISE=(
+  "Python, JavaScript, C++, Rust"
+  "React, Node.js, Cloud Architecture"
+  "Web Security, Network Pentesting"
+  "System Design, DevOps, Automation"
+  "OS Development, Low-level Programming"
+)
+
+# ---- FUN STUFF ----
+export FUN_FACT="I automate everything. If I do it twice, I script it. 
+  Coffee is my coprocessor. Late-night coding sessions = production releases. 
+  I believe the best way to learn a system is to break it first."
+export MOTTO="code with intention · secure with ethics"
 ```
 
 </details>
@@ -71,42 +115,46 @@ export FUN_FACT="Automates everything. Coffee + late-night coding sessions = shi
 <summary><code>root@dev9269:~# ls -la /opt/projects/</code></summary>
 <br>
 
+```bash
+# Active deployments and ongoing work
+```
+
 <table>
   <tr>
     <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
     <th>Status</th>
-    <th>Tech Stack</th>
-    <th>Links</th>
   </tr>
   <tr>
     <td><b>🛡️ SSH Honeypot v2.0</b></td>
+    <td>AI-powered honeypot that uses Ollama for threat analysis, maps attacks to MITRE ATT&CK framework, and provides real-time attack dashboards with session replay.</td>
+    <td><code>Python · Paramiko · Ollama</code></td>
     <td><code>🟢 ACTIVE</code></td>
-    <td>Python, Paramiko, Ollama</td>
-    <td><a href="https://github.com/Dev9269/ssh-honeypot">→ Repo</a></td>
   </tr>
   <tr>
     <td><b>🤖 AI Chatbot</b></td>
+    <td>Multi-language conversational AI with streaming responses, context-aware conversations, and Groq-powered LLM inference for low-latency interactions.</td>
+    <td><code>Python · Groq · JavaScript</code></td>
     <td><code>🟢 LIVE</code></td>
-    <td>Python, Groq, JavaScript</td>
-    <td><a href="https://github.com/Dev9269/ai-chatbot">→ Repo</a> · <a href="https://dev9269.github.io/ai-chatbot/">Demo</a></td>
   </tr>
   <tr>
     <td><b>🔐 Password Toolkit</b></td>
+    <td>GPU-accelerated security testing framework with rule-based attacks, hashcat-compatible formats, and distributed cracking capabilities.</td>
+    <td><code>Python · CUDA</code></td>
     <td><code>🟢 ACTIVE</code></td>
-    <td>Python, CUDA</td>
-    <td><a href="https://github.com/Dev9269/password-cracker-toolkit">→ Repo</a></td>
   </tr>
   <tr>
     <td><b>🌐 Portfolio</b></td>
+    <td>Modern personal portfolio showcasing projects, built with React + Vite for optimal performance and Tailwind CSS for responsive design.</td>
+    <td><code>React · Vite · Tailwind</code></td>
     <td><code>🟢 LIVE</code></td>
-    <td>React, Vite, Tailwind</td>
-    <td><a href="https://github.com/Dev9269/portfolio">→ Repo</a> · <a href="https://dev9269.github.io/portfolio/">Site</a></td>
   </tr>
   <tr>
     <td><b>📚 EduOS</b></td>
+    <td>Educational operating system built from scratch in C++ and Assembly — exploring bootloaders, memory management, interrupt handling, and file systems.</td>
+    <td><code>C++ · Assembly</code></td>
     <td><code>🔵 PRIVATE</code></td>
-    <td>C++, Assembly</td>
-    <td>—</td>
   </tr>
 </table>
 
