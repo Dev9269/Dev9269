@@ -20,6 +20,9 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dev9269&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" />
+  <br><br>
+  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Earned-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📦_57_Contributions-Today-00FF41?style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <br>
@@ -205,8 +208,28 @@ focus:
   </tr>
   <tr>
     <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
-    <td>Community content contributions</td>
-    <td>✅ 4 PRs merged</td>
+    <td>Community content — Japan facts, video game & anime quotes</td>
+    <td>✅ 6+ PRs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OWASP/CheatSheetSeries">OWASP/CheatSheetSeries</a></td>
+    <td>Grammar fix + password storage + contribution mentoring</td>
+    <td>✅ Merged + Reviewed</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OWASP/Nest">OWASP/Nest</a></td>
+    <td>Server-side program status validation</td>
+    <td>🔵 PR #5320</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fastapi/fastapi">fastapi/fastapi</a></td>
+    <td>Security best practices documentation</td>
+    <td>✅ PR submitted</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Dev9269/cve-bin-tool">ossf/cve-bin-tool</a></td>
+    <td>Performance optimizations (open PR)</td>
+    <td>🔵 PR #5857</td>
   </tr>
 </table>
 
