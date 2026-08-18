@@ -143,6 +143,21 @@ focus:
 
 ---
 
+## Pinned Repositories
+
+<div align="center">
+
+[![ssh-honeypot](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=ssh-honeypot&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/ssh-honeypot)
+[![password-cracker-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=password-cracker-toolkit&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/password-cracker-toolkit)
+[![malware-detector](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=malware-detector&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/malware-detector)
+[![dark-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=dark-sentinel&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/dark-sentinel)
+[![eduos](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=eduos&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/eduos)
+[![zero-trust-lab](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=zero-trust-lab&theme=vision-friendly-dark&border_color=00FF41&bg_color=0d1117)](https://github.com/Dev9269/zero-trust-lab)
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
