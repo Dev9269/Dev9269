@@ -84,9 +84,21 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
   </tr>
   <tr>
     <td><b>📚 EduOS</b></td>
-    <td>Educational OS from scratch — bootloaders, memory management, file systems</td>
-    <td><code>C++ · Assembly</code></td>
-    <td><code>🔵 PRIVATE</code></td>
+    <td>Debian-based educational OS with secure exam mode, cyber lab, and admin center</td>
+    <td><code>Python · PyQt6 · Flask</code></td>
+    <td><code>🟢 ACTIVE</code></td>
+  </tr>
+  <tr>
+    <td><b>🕵️ Zero Trust Lab</b></td>
+    <td>CISA Zero Trust Maturity Model — nginx + OPA + oauth2-proxy + Authentik</td>
+    <td><code>Python · Docker · OPA</code></td>
+    <td><code>🟢 ACTIVE</code></td>
+  </tr>
+  <tr>
+    <td><b>🌑 Dark Sentinel</b></td>
+    <td>OSINT dark-web crawler with NLP, geo-tagging, and React dashboard</td>
+    <td><code>Python · React · Flask</code></td>
+    <td><code>🟢 ACTIVE</code></td>
   </tr>
 </table>
 
@@ -180,8 +192,8 @@ I build secure, scalable systems and security tools. By day, I engineer full-sta
 <div align="center">
 
 <img src="https://img.shields.io/badge/Commits-7.5k+-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PRs%20Merged-17-6a11cb?style=flat&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Repositories-12-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PRs%20Merged-19-6a11cb?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Repositories-14-6a11cb?style=flat&labelColor=0d1117" />
 
 <br><br>
 
@@ -297,6 +309,31 @@ Other       ██░░░░░░░░░░░░░░░░░    5.4%
     <td><a href="https://github.com/Dev9269/password-cracker-toolkit">Dev9269/password-cracker-toolkit</a></td>
     <td>Added batch cracking mode with file input and export</td>
     <td><b>✅ Merged</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
+    <td>Added Japan fact #307 to community content</td>
+    <td><b>✅ PR #25149</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
+    <td>Added etiquette tip #36 to community content</td>
+    <td><b>✅ PR #25150</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lingdojo/kana-dojo">lingdojo/kana-dojo</a></td>
+    <td>Added anime quote from Attack on Titan</td>
+    <td><b>✅ PR #25153</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aditya226-sharma/story-teller-">aditya226-sharma/story-teller-</a></td>
+    <td>Enhanced docs, metadata, and loader fix</td>
+    <td><b>✅ Merged</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aditya226-sharma/story-teller-">aditya226-sharma/story-teller-</a></td>
+    <td>Added CI workflow with lint + build pipeline</td>
+    <td><b>✅ PR #2</b></td>
   </tr>
 </table>
 
