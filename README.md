@@ -97,8 +97,8 @@ I don't just write code — I document everything, CI-test everything, and open-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev9269&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev9269&layout=compact&theme=radical&bg_color=0d1117&border_color=00FF41&title_color=00FF41" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev9269&theme=radical" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev9269&theme=radical" height="175" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=Dev9269&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" />
@@ -110,12 +110,6 @@ I don't just write code — I document everything, CI-test everything, and open-
 
 <div align="center">
 
-[![CyberRakshak](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=crpf-sentinel&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/crpf-sentinel)
-[![eduos](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=eduos&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/eduos)
-[![ssh-honeypot](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=ssh-honeypot&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/ssh-honeypot)
-[![zero-trust-lab](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=zero-trust-lab&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/zero-trust-lab)
-[![malware-detector](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=malware-detector&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/malware-detector)
-[![crpf-soc-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Dev9269&repo=crpf-soc-dashboard&theme=radical&bg_color=0d1117&border_color=00FF41)](https://github.com/Dev9269/crpf-soc-dashboard)
 
 </div>
 
