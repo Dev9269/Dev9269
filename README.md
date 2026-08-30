@@ -166,12 +166,12 @@ I don't just write code — I document everything, CI-test everything, and open-
 <!-- PROFILE_VIEWS:START -->
 
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: 862)</summary>
+<summary><b>📊 Monthly Profile Views</b> (Total: 865)</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
 |-------|-------|------|-----|--------|
-| 2026-08 | 521 | 862 | 862 | 341 |
+| 2026-08 | 521 | 865 | 865 | 344 |
 | 2026-07 | 196 | 503 | 503 | 307 |
 
 </details>
