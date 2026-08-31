@@ -120,12 +120,19 @@ I don't just write code — I document everything, CI-test everything, and open-
 | [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | ✅ Merged |
 | [lissy93/web-check](https://github.com/lissy93/web-check) | Bug fixes, SECURITY.md, non-routable IP detection | ✅ 4 PRs merged |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Documentation fix | ✅ Merged |
-| [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun → time-machine | ⏳ PR #1011 |
+| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler | ✅ Merged (#554) |
+| [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun → time-machine | ⏳ PR [#1011](https://github.com/scanapi/scanapi/pull/1011) |
 | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fix + password storage + mentoring | ✅ Merged |
 | [OWASP/Nest](https://github.com/OWASP/Nest) | Server-side program status validation (merged) + sitemap `lastmod` fix for `/repositories` | ✅ Merged · ⏳ PR [#5437](https://github.com/OWASP/Nest/pull/5437) |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Fix Discord.bio + interpals false positives (status-code detection) | ⏳ PR [#3080](https://github.com/sherlock-project/sherlock/pull/3080) |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | DNS/Discord.bio/interpals false positives; `--output` no-rewrite; per-username counter reset; location-parse crash | ⏳ PRs [#3080](https://github.com/sherlock-project/sherlock/pull/3080), [#3083](https://github.com/sherlock-project/sherlock/pull/3083), [#3084](https://github.com/sherlock-project/sherlock/pull/3084), [#3085](https://github.com/sherlock-project/sherlock/pull/3085), [#3094](https://github.com/sherlock-project/sherlock/pull/3094) |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | ⏸ Closed |
 | [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations — trimmed test lockfiles, lazy DB init | ⏳ PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
+| [xynehq/xyne](https://github.com/xynehq/xyne) | Skip empty Docling image chunk descriptions | ⏳ PR [#1365](https://github.com/xynehq/xyne/pull/1365) |
+| [orkestra-cc/orkestra](https://github.com/orkestra-cc/orkestra) | rustfs backup/restore check-sync fix | ⏳ PR [#304](https://github.com/orkestra-cc/orkestra/pull/304) |
+| [common-workflow-language/cwltool](https://github.com/common-workflow-language/cwltool) | Fix `resolve_local` returning CWD-anchored URIs | ⏳ PR [#2325](https://github.com/common-workflow-language/cwltool/pull/2325) |
+| [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks) | Use glob patterns for TLS policies (AWS-0112 + AWS-0126) | ⏳ PRs [#606](https://github.com/aquasecurity/trivy-checks/pull/606), [#607](https://github.com/aquasecurity/trivy-checks/pull/607) |
+| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Serve localized 404 page for unknown locations | ⏳ PR [#1292](https://github.com/chubin/wttr.in/pull/1292) |
+| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment | ⏳ PR [#4633](https://github.com/beeware/toga/pull/4633) |
 
 ---
 
