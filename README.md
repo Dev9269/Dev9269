@@ -97,7 +97,7 @@ I don't just write code — I document everything, CI-test everything, and open-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-8%2C972-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions_(last_12mo)-109-00FF41?style=for-the-badge&labelColor=0d1117" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev9269&theme=radical" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev9269&theme=radical" height="175" />
@@ -111,28 +111,33 @@ I don't just write code — I document everything, CI-test everything, and open-
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message | ✅ Merged |
-| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError | ✅ Merged |
-| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | ✅ Merged |
-| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | ⏳ Open |
-| [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | ⏸ Closed unmerged |
-| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | ⏸ Closed unmerged |
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | README documentation fixes | ✅ Merged |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Bug fixes, SECURITY.md, non-routable IP detection | ✅ 4 PRs merged |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Documentation fix | ✅ Merged |
-| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler | ✅ Merged (#554) |
+| [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message | ✅ [#4632](https://github.com/beeware/toga/pull/4632) merged |
+| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError | ✅ [#501](https://github.com/pschanely/CrossHair/pull/501) merged |
+| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | ✅ [#318](https://github.com/Nayjest/GITO/pull/318) merged |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Typos/grammar/broken-links fixes | ✅ [#314](https://github.com/lissy93/web-check/pull/314) merged |
+| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fixes on SQL Injection Prevention Cheat Sheet | ✅ [#1549](https://github.com/OWASP/CheatSheetSeries/pull/1549) merged |
+| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler | ✅ [#554](https://github.com/spore-host/spawn/pull/554) merged |
+| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | ⏳ Open [#933](https://github.com/jupyterhub/kubespawner/pull/933) |
+| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment | ⏳ PR [#4633](https://github.com/beeware/toga/pull/4633) |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Skip public API calls for non-routable IPs; add SECURITY.md | ⏳ PRs [#320](https://github.com/lissy93/web-check/pull/320), [#322](https://github.com/lissy93/web-check/pull/322) |
 | [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun → time-machine | ⏳ PR [#1011](https://github.com/scanapi/scanapi/pull/1011) |
-| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fix + password storage + mentoring | ✅ Merged |
-| [OWASP/Nest](https://github.com/OWASP/Nest) | Server-side program status validation (merged) + sitemap `lastmod` fix for `/repositories` | ✅ Merged · ⏳ PR [#5437](https://github.com/OWASP/Nest/pull/5437) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | DNS/Discord.bio/interpals false positives; `--output` no-rewrite; per-username counter reset; location-parse crash | ⏳ PRs [#3080](https://github.com/sherlock-project/sherlock/pull/3080), [#3083](https://github.com/sherlock-project/sherlock/pull/3083), [#3084](https://github.com/sherlock-project/sherlock/pull/3084), [#3085](https://github.com/sherlock-project/sherlock/pull/3085), [#3094](https://github.com/sherlock-project/sherlock/pull/3094) |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | ⏸ Closed |
 | [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations — trimmed test lockfiles, lazy DB init | ⏳ PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
 | [xynehq/xyne](https://github.com/xynehq/xyne) | Skip empty Docling image chunk descriptions | ⏳ PR [#1365](https://github.com/xynehq/xyne/pull/1365) |
 | [orkestra-cc/orkestra](https://github.com/orkestra-cc/orkestra) | rustfs backup/restore check-sync fix | ⏳ PR [#304](https://github.com/orkestra-cc/orkestra/pull/304) |
 | [common-workflow-language/cwltool](https://github.com/common-workflow-language/cwltool) | Fix `resolve_local` returning CWD-anchored URIs | ⏳ PR [#2325](https://github.com/common-workflow-language/cwltool/pull/2325) |
 | [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks) | Use glob patterns for TLS policies (AWS-0112 + AWS-0126) | ⏳ PRs [#606](https://github.com/aquasecurity/trivy-checks/pull/606), [#607](https://github.com/aquasecurity/trivy-checks/pull/607) |
 | [chubin/wttr.in](https://github.com/chubin/wttr.in) | Serve localized 404 page for unknown locations | ⏳ PR [#1292](https://github.com/chubin/wttr.in/pull/1292) |
-| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment | ⏳ PR [#4633](https://github.com/beeware/toga/pull/4633) |
+| [beefproject/beef](https://github.com/beefproject/beef) | Fix URL-encoded command passed to shell execution modules | ⏳ PR [#3637](https://github.com/beefproject/beef/pull/3637) |
+| [andyjmorgan/slipspace-gateway](https://github.com/andyjmorgan/slipspace-gateway) | Clarify `Last4` contract for short secrets in `redact()` | ⏳ PR [#562](https://github.com/andyjmorgan/slipspace-gateway/pull/562) |
+| [getaxonflow/axonflow](https://github.com/getaxonflow/axonflow) | Complete the examples index in `examples/README.md` | ⏳ PR [#462](https://github.com/getaxonflow/axonflow/pull/462) |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | Fix typos in CLI options and install instructions | ⏸ [Closed](https://github.com/qeeqbox/social-analyzer/pull/178) |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Fix typo: "Graphs databases" → "Graph databases" | ⏸ [Closed](https://github.com/donnemartin/system-design-primer/pull/1306) |
+| [OWASP/Nest](https://github.com/OWASP/Nest) | Fix `/repositories` sitemap `lastmod` to use latest repository update | ⏸ [Closed](https://github.com/OWASP/Nest/pull/5573) |
+| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Add password cracking techniques to Password Storage Cheat Sheet | ⏸ [Closed](https://github.com/OWASP/CheatSheetSeries/pull/2307) |
+| [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | ⏸ Closed unmerged |
+| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | ⏸ Closed unmerged |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | ⏸ Closed |
 
 ---
 
