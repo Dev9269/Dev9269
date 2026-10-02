@@ -45,6 +45,7 @@
 I'm **Jainam H. Maru** — a security researcher, OS developer, and full-stack engineer who builds **AI-powered defensive tooling** and studies attacker behavior for a living (and a hobby). My sweet spot is where **threat intelligence meets machine learning**:
 
 - 🕵️ **Threat intelligence collection** — honeypots, dark-web OSINT, MITRE ATT&CK mapping
+- 🕸️ **Dark-web OSINT & entity resolution** — building **DarkForce**: Tor + clearnet collection, actor correlation, and an interactive relationship graph
 - 🏰 **Zero-Trust architecture** — CISA ZTMM-aligned labs with OPA, oauth2-proxy, mTLS
 - 🛡️ **SIEM engineering** — building **CyberRakshak** (Smart India Hackathon): Windows Event Log ingestion, correlation rules, MITRE-mapped detection, live SOC dashboard
 - 🤖 **AI engineering** — LLM-assisted analysis (Ollama, Groq), ML malware detection with SHAP explainability
@@ -58,6 +59,7 @@ I don't just write code — I document everything, CI-test everything, and open-
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| 🕵️ [**darkforce**](https://github.com/Dev9269/darkforce) · **[live](https://darkforce-production.up.railway.app)** | Dark-web threat intelligence platform — OSINT collection across Tor & clearnet, actor entity resolution, and an interactive relationship graph that dims filtered nodes instead of reflowing the layout | Python · FastAPI · React 19 · Cytoscape.js · SQLite · Tor |
 | 🛡️ [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM platform for CRPF units (SIH 2026) — agent-based Windows Event Log collection, correlation + MITRE ATT&CK detection, role-based live SOC dashboard | Python · FastAPI · Next.js 15 · SQLAlchemy · SSE |
 | 🎓 [**eduos**](https://github.com/Dev9269/eduos) | Unified OS for learning, secure examinations, cybersecurity training & campus admin | Python · PyQt6 · FastAPI · FreeBSD |
 | 👁 [**ssh-honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-driven SSH deception — captures attacker commands, geolocates, scores threat, maps to MITRE ATT&CK | Python · Paramiko · Ollama · Docker |
@@ -81,6 +83,8 @@ I don't just write code — I document everything, CI-test everything, and open-
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&perline=5&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,grafana,prometheus,vercel,figma&perline=6&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cybersecurity,network,cloudflare,prometheus&perline=4&theme=dark" />
 </p>
 
 <p align="center">
@@ -90,6 +94,8 @@ I don't just write code — I document everything, CI-test everything, and open-
   <img src="https://img.shields.io/badge/AI_Agents-Ollama%2FGroq-FF9900?style=flat-square&logo=ollama" />
   <img src="https://img.shields.io/badge/OSINT-Osintgram-1DA1F2?style=flat-square" />
   <img src="https://img.shields.io/badge/Deception-Honeypots-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dark_Web-OSINT_%2B_Tor-00B3A4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Entity_Resolution-Actor_Graphs-5B21B6?style=flat-square" />
 </p>
 
 ---
