@@ -60,7 +60,7 @@ I don't just write code — I document everything, CI-test everything, and open-
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | 🕵️ [**darkforce**](https://github.com/Dev9269/darkforce) · **[live](https://darkforce-production.up.railway.app)** | Dark-web threat intelligence platform — OSINT collection across Tor & clearnet, actor entity resolution, and an interactive relationship graph that dims filtered nodes instead of reflowing the layout | Python · FastAPI · React 19 · Cytoscape.js · SQLite · Tor |
-| 🛡️ | [**aegis-nexus-ai**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center - FastAPI + React, modular feature-first architecture, audit chain, risk scoring | Python - FastAPI - React 19 - TanStack Query - SQLite |
+| 🕵️ [**aegis-nexus-ai**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center - FastAPI + React, modular feature-first architecture, audit chain, risk scoring | Python - FastAPI - React 19 - TanStack Query - SQLite |
 | ß��? [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM platform for CRPF units (SIH 2026) — agent-based Windows Event Log collection, correlation + MITRE ATT&CK detection, role-based live SOC dashboard | Python · FastAPI · Next.js 15 · SQLAlchemy · SSE |
 | 🎓 [**eduos**](https://github.com/Dev9269/eduos) | Unified OS for learning, secure examinations, cybersecurity training & campus admin | Python · PyQt6 · FastAPI · FreeBSD |
 | 👁 [**ssh-honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-driven SSH deception — captures attacker commands, geolocates, scores threat, maps to MITRE ATT&CK | Python · Paramiko · Ollama · Docker |
