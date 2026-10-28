@@ -1,11 +1,15 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<pre style="font-family:'Fira Code',monospace; font-size:14px; line-height:1.5; color:#00FF41; background:#0d1117; border:1px solid #00FF41; border-radius:6px; padding:20px; display:inline-block; text-align:center; box-shadow:0 0 20px rgba(0,255,65,0.3);">
+<pre style="font-family:'Fira Code',monospace; font-size:14px; line-height:1.5; color:#00FF41; background:#0d1117; border:1px solid #00FF41; border-radius:8px; padding:16px 24px; overflow-x:auto">
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│                                      dev                                     │
-│                                                                              │
+│   ██████╗ ███████╗██╗   ██╗                                                 │
+│   ██╔══██╗██╔════╝██║   ██║                                                 │
+│   ██║  ██║█████╗  ██║   ██║                                                 │
+│   ██║  ██║██╔══╝  ╚██╗ ██╔╝                                                 │
+│   ██████╔╝███████╗ ╚████╔╝                                                  │
+│   ╚═════╝ ╚══════╝  ╚═══╝                                                   │
 │                                                                              │
 │      SECURITY RESEARCHER · ZERO-TRUST ARCHITECT · AI ENGINEER               │
 └──────────────────────────────────────────────────────────────────────────────┘
