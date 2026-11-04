@@ -26,35 +26,35 @@
 
 ---
 
-## The TL;DR
+## About
 
-I'm **Jainam H. Maru**     a security researcher, OS developer, and full-stack engineer who builds **AI-powered defensive tooling** and studies attacker behavior for a living (and a hobby). My sweet spot is where **threat intelligence meets machine learning**:
+I am **Jainam H. Maru**, a security researcher, OS developer, and full-stack engineer. I build AI-powered defensive tooling and study attacker behavior. My focus sits at the intersection of threat intelligence and machine learning.
 
--         **Threat intelligence collection**     honeypots, dark-web OSINT, MITRE ATT&CK mapping
--         **Dark-web OSINT & entity resolution**     building **DarkForce**: Tor + clearnet collection, actor correlation, and an interactive relationship graph
--      **Zero-Trust architecture**     CISA ZTMM-aligned labs with OPA, oauth2-proxy, mTLS
--         **SIEM engineering**     building **CyberRakshak** (Smart India Hackathon): Windows Event Log ingestion, correlation rules, MITRE-mapped detection, live SOC dashboard
--      **AI engineering**     LLM-assisted analysis (Ollama, Groq), ML malware detection with SHAP explainability
--      **Education systems**     building **EduOS**, an open-source operating system for education, secure exams & cyber training
+- **Threat intelligence collection:** honeypots, dark-web OSINT, MITRE ATT&CK mapping
+- **Dark-web OSINT and entity resolution:** building DarkForce - Tor and clearnet collection, actor correlation, interactive relationship graphs
+- **Zero-Trust architecture:** CISA ZTMM-aligned labs with OPA, oauth2-proxy, mTLS
+- **SIEM engineering:** building CyberRakshak (Smart India Hackathon) - Windows Event Log ingestion, correlation rules, MITRE-mapped detection, live SOC dashboard
+- **AI engineering:** LLM-assisted analysis (Ollama, Groq), ML malware detection with SHAP explainability
+- **Education systems:** building EduOS, an open-source operating system for education, secure exams, and cyber training
 
-I don't just write code     I document everything, CI-test everything, and open-source everything that can be.
+I document, CI-test, and open-source everything I build.
 
 ---
 
 ## Featured Projects
 
 | Project | What it does | Stack |
-|---------|-------------|-------|
-|         [**darkforce**](https://github.com/Dev9269/darkforce)    **[live](https://darkforce-production.up.railway.app)** | Dark-web threat intelligence platform     OSINT collection across Tor & clearnet, actor entity resolution, and an interactive relationship graph that dims filtered nodes instead of reflowing the layout | Python    FastAPI    React 19    Cytoscape.js    SQLite    Tor |
-|         [**aegis-nexus-ai**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center - FastAPI + React, modular feature-first architecture, audit chain, risk scoring | Python - FastAPI - React 19 - TanStack Query - SQLite |
-|       ? [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM platform for CRPF units (SIH 2026)     agent-based Windows Event Log collection, correlation + MITRE ATT&CK detection, role-based live SOC dashboard | Python    FastAPI    Next.js 15    SQLAlchemy    SSE |
-|      [**eduos**](https://github.com/Dev9269/eduos) | Unified OS for learning, secure examinations, cybersecurity training & campus admin | Python    PyQt6    FastAPI    FreeBSD |
-|      [**ssh-honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-driven SSH deception     captures attacker commands, geolocates, scores threat, maps to MITRE ATT&CK | Python    Paramiko    Ollama    Docker |
-|      [**zero-trust-lab**](https://github.com/Dev9269/zero-trust-lab) | CISA ZTMM 2.0 lab     nginx + oauth2-proxy + OPA + authz-bridge across 4 VMs | Docker    OPA    Authentik    WireGuard |
-|      [**malware-detector**](https://github.com/Dev9269/malware-detector) | PE malware detector     YARA + Random Forest + EMBER 2381 features + SHAP | Python    FastAPI    scikit-learn |
-|      [**crpf-soc-dashboard**](https://github.com/Dev9269/crpf-soc-dashboard) | SOC command-centre prototype     centralized security monitoring for CRPF (SIH) | React    FastAPI    Recharts |
-|      [**bitchat-messenger**](https://github.com/Dev9269/bitchat-messenger) | Real-time chat messenger | JS    WebSockets |
-|      [**password-cracker-toolkit**](https://github.com/Dev9269/password-cracker-toolkit) | Industrial-grade cracking suite     masks, rules, combinator, sessions | Python    CUDA |
+| --------- | ------------- | ------- |
+| [**darkforce**](https://github.com/Dev9269/darkforce) **[live](https://darkforce-production.up.railway.app)** | Dark-web threat intelligence platform OSINT collection across Tor & clearnet, actor entity resolution, and an interactive relationship graph that dims filtered nodes instead of reflowing the layout | Python FastAPI React 19 Cytoscape.js SQLite Tor |
+| [**aegis-nexus-ai**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center - FastAPI + React, modular feature-first architecture, audit chain, risk scoring | Python - FastAPI - React 19 - TanStack Query - SQLite |
+| [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM platform for CRPF units (SIH 2026) agent-based Windows Event Log collection, correlation + MITRE ATT&CK detection, role-based live SOC dashboard | Python FastAPI Next.js 15 SQLAlchemy SSE |
+| [**eduos**](https://github.com/Dev9269/eduos) | Unified OS for learning, secure examinations, cybersecurity training & campus admin | Python PyQt6 FastAPI FreeBSD |
+| [**ssh-honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-driven SSH deception captures attacker commands, geolocates, scores threat, maps to MITRE ATT&CK | Python Paramiko Ollama Docker |
+| [**zero-trust-lab**](https://github.com/Dev9269/zero-trust-lab) | CISA ZTMM 2.0 lab nginx + oauth2-proxy + OPA + authz-bridge across 4 VMs | Docker OPA Authentik WireGuard |
+| [**malware-detector**](https://github.com/Dev9269/malware-detector) | PE malware detector YARA + Random Forest + EMBER 2381 features + SHAP | Python FastAPI scikit-learn |
+| [**crpf-soc-dashboard**](https://github.com/Dev9269/crpf-soc-dashboard) | SOC command-centre prototype centralized security monitoring for CRPF (SIH) | React FastAPI Recharts |
+| [**bitchat-messenger**](https://github.com/Dev9269/bitchat-messenger) | Real-time chat messenger | JS WebSockets |
+| [**password-cracker-toolkit**](https://github.com/Dev9269/password-cracker-toolkit) | Industrial-grade cracking suite masks, rules, combinator, sessions | Python CUDA |
 
 ---
 
@@ -105,34 +105,34 @@ I don't just write code     I document everything, CI-test everything, and open-
 ## Open Source Contributions
 
 | Project | Contribution | Status |
-|---------|-------------|--------|
-| [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message |     [#4632](https://github.com/beeware/toga/pull/4632) merged |
-| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError |     [#501](https://github.com/pschanely/CrossHair/pull/501) merged |
-| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` |     [#318](https://github.com/Nayjest/GITO/pull/318) merged |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Typos/grammar/broken-links fixes |     [#314](https://github.com/lissy93/web-check/pull/314) merged |
-| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fixes on SQL Injection Prevention Cheat Sheet |     [#1549](https://github.com/OWASP/CheatSheetSeries/pull/1549) merged |
-| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler |     [#554](https://github.com/spore-host/spawn/pull/554) merged |
-| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation |     Open [#933](https://github.com/jupyterhub/kubespawner/pull/933) |
-| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment |     PR [#4633](https://github.com/beeware/toga/pull/4633) |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Skip public API calls for non-routable IPs; add SECURITY.md |     PRs [#320](https://github.com/lissy93/web-check/pull/320), [#322](https://github.com/lissy93/web-check/pull/322) |
-| [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun     time-machine |     PR [#1011](https://github.com/scanapi/scanapi/pull/1011) |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | DNS/Discord.bio/interpals false positives; `--output` no-rewrite; per-username counter reset; location-parse crash |     PRs [#3080](https://github.com/sherlock-project/sherlock/pull/3080), [#3083](https://github.com/sherlock-project/sherlock/pull/3083), [#3084](https://github.com/sherlock-project/sherlock/pull/3084), [#3085](https://github.com/sherlock-project/sherlock/pull/3085), [#3094](https://github.com/sherlock-project/sherlock/pull/3094) |
-| [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations     trimmed test lockfiles, lazy DB init |     PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
-| [xynehq/xyne](https://github.com/xynehq/xyne) | Skip empty Docling image chunk descriptions |     PR [#1365](https://github.com/xynehq/xyne/pull/1365) |
-| [orkestra-cc/orkestra](https://github.com/orkestra-cc/orkestra) | rustfs backup/restore check-sync fix |     PR [#304](https://github.com/orkestra-cc/orkestra/pull/304) |
-| [common-workflow-language/cwltool](https://github.com/common-workflow-language/cwltool) | Fix `resolve_local` returning CWD-anchored URIs |     PR [#2325](https://github.com/common-workflow-language/cwltool/pull/2325) |
-| [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks) | Use glob patterns for TLS policies (AWS-0112 + AWS-0126) |     PRs [#606](https://github.com/aquasecurity/trivy-checks/pull/606), [#607](https://github.com/aquasecurity/trivy-checks/pull/607) |
-| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Serve localized 404 page for unknown locations |     PR [#1292](https://github.com/chubin/wttr.in/pull/1292) |
-| [beefproject/beef](https://github.com/beefproject/beef) | Fix URL-encoded command passed to shell execution modules |     PR [#3637](https://github.com/beefproject/beef/pull/3637) |
-| [andyjmorgan/slipspace-gateway](https://github.com/andyjmorgan/slipspace-gateway) | Clarify `Last4` contract for short secrets in `redact()` |     PR [#562](https://github.com/andyjmorgan/slipspace-gateway/pull/562) |
-| [getaxonflow/axonflow](https://github.com/getaxonflow/axonflow) | Complete the examples index in `examples/README.md` |     PR [#462](https://github.com/getaxonflow/axonflow/pull/462) |
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | Fix typos in CLI options and install instructions |     [Closed](https://github.com/qeeqbox/social-analyzer/pull/178) |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Fix typo: "Graphs databases"     "Graph databases" |     [Closed](https://github.com/donnemartin/system-design-primer/pull/1306) |
-| [OWASP/Nest](https://github.com/OWASP/Nest) | Fix `/repositories` sitemap `lastmod` to use latest repository update |     [Closed](https://github.com/OWASP/Nest/pull/5573) |
-| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Add password cracking techniques to Password Storage Cheat Sheet |     [Closed](https://github.com/OWASP/CheatSheetSeries/pull/2307) |
-| [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow |     Closed unmerged |
-| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup |     Closed unmerged |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation |     Closed |
+| --------- | ------------- | -------- |
+| [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message | [#4632](https://github.com/beeware/toga/pull/4632) merged |
+| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError | [#501](https://github.com/pschanely/CrossHair/pull/501) merged |
+| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | [#318](https://github.com/Nayjest/GITO/pull/318) merged |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Typos/grammar/broken-links fixes | [#314](https://github.com/lissy93/web-check/pull/314) merged |
+| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fixes on SQL Injection Prevention Cheat Sheet | [#1549](https://github.com/OWASP/CheatSheetSeries/pull/1549) merged |
+| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler | [#554](https://github.com/spore-host/spawn/pull/554) merged |
+| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | Open [#933](https://github.com/jupyterhub/kubespawner/pull/933) |
+| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment | PR [#4633](https://github.com/beeware/toga/pull/4633) |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Skip public API calls for non-routable IPs; add SECURITY.md | PRs [#320](https://github.com/lissy93/web-check/pull/320), [#322](https://github.com/lissy93/web-check/pull/322) |
+| [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun time-machine | PR [#1011](https://github.com/scanapi/scanapi/pull/1011) |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | DNS/Discord.bio/interpals false positives; `--output` no-rewrite; per-username counter reset; location-parse crash | PRs [#3080](https://github.com/sherlock-project/sherlock/pull/3080), [#3083](https://github.com/sherlock-project/sherlock/pull/3083), [#3084](https://github.com/sherlock-project/sherlock/pull/3084), [#3085](https://github.com/sherlock-project/sherlock/pull/3085), [#3094](https://github.com/sherlock-project/sherlock/pull/3094) |
+| [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations trimmed test lockfiles, lazy DB init | PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
+| [xynehq/xyne](https://github.com/xynehq/xyne) | Skip empty Docling image chunk descriptions | PR [#1365](https://github.com/xynehq/xyne/pull/1365) |
+| [orkestra-cc/orkestra](https://github.com/orkestra-cc/orkestra) | rustfs backup/restore check-sync fix | PR [#304](https://github.com/orkestra-cc/orkestra/pull/304) |
+| [common-workflow-language/cwltool](https://github.com/common-workflow-language/cwltool) | Fix `resolve_local` returning CWD-anchored URIs | PR [#2325](https://github.com/common-workflow-language/cwltool/pull/2325) |
+| [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks) | Use glob patterns for TLS policies (AWS-0112 + AWS-0126) | PRs [#606](https://github.com/aquasecurity/trivy-checks/pull/606), [#607](https://github.com/aquasecurity/trivy-checks/pull/607) |
+| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Serve localized 404 page for unknown locations | PR [#1292](https://github.com/chubin/wttr.in/pull/1292) |
+| [beefproject/beef](https://github.com/beefproject/beef) | Fix URL-encoded command passed to shell execution modules | PR [#3637](https://github.com/beefproject/beef/pull/3637) |
+| [andyjmorgan/slipspace-gateway](https://github.com/andyjmorgan/slipspace-gateway) | Clarify `Last4` contract for short secrets in `redact()` | PR [#562](https://github.com/andyjmorgan/slipspace-gateway/pull/562) |
+| [getaxonflow/axonflow](https://github.com/getaxonflow/axonflow) | Complete the examples index in `examples/README.md` | PR [#462](https://github.com/getaxonflow/axonflow/pull/462) |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | Fix typos in CLI options and install instructions | [Closed](https://github.com/qeeqbox/social-analyzer/pull/178) |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Fix typo: "Graphs databases" "Graph databases" | [Closed](https://github.com/donnemartin/system-design-primer/pull/1306) |
+| [OWASP/Nest](https://github.com/OWASP/Nest) | Fix `/repositories` sitemap `lastmod` to use latest repository update | [Closed](https://github.com/OWASP/Nest/pull/5573) |
+| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Add password cracking techniques to Password Storage Cheat Sheet | [Closed](https://github.com/OWASP/CheatSheetSeries/pull/2307) |
+| [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | Closed unmerged |
+| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | Closed unmerged |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | Closed |
 
 ---
 
@@ -177,7 +177,7 @@ I don't just write code     I document everything, CI-test everything, and open-
 <br>
 
 | Month | Start | Peak | End | Growth |
-|-------|-------|------|-----|--------|
+| ------- | ------- | ------ | ----- | -------- |
 | 2026-09 | 889 | 962 | 962 | 73 |
 | 2026-08 | 521 | 866 | 866 | 345 |
 | 2026-07 | 196 | 503 | 503 | 307 |
