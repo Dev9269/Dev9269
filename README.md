@@ -12,7 +12,7 @@
   <a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-%40jainammaru__-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-dev.to%2Fdev9269-0A0A0A?style=flat&logo=dev.to&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-%40jainammaru__-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://dev9269.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-jainamhmaru.vercel.app-00FF41?style=flat&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://dev9269.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-dev9269.github.io-00FF41?style=flat&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:Jainammaru567000@gmail.com"><img src="https://img.shields.io/badge/Email-Jainammaru567000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
