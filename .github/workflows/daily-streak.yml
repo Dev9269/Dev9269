@@ -16,7 +16,7 @@ jobs:
       - name: Update activity log
         run: |
           set -e
-          N=$(( RANDOM % 43 + 8 ))
+          N=$(( RANDOM % 85 + 5 ))
           echo "Making $N commits today"
           for i in $(seq 1 $N); do
             echo "$(date -u '+%Y-%m-%dT%H:%M:%SZ') - streak #$i" >> activity-log.txt
