@@ -97,7 +97,7 @@ I document, CI-test, and open-source everything I build.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev9269&theme=radical" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev9269&theme=radical" height="175" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
 </div>
 
 ---
