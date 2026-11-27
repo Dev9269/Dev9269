@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+<title id="title">Dev9269 terminal profile status</title>
+<desc id="desc">A terminal-style profile banner with verified repository, language, view, and activity metrics.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#151B1E" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="430" fill="#0A0C0D"/>
+<rect width="1280" height="430" fill="url(#grid)"/>
+<rect width="1280" height="34" fill="#111719"/>
+<circle cx="24" cy="17" r="6" fill="#FF4D5E"/><circle cx="44" cy="17" r="6" fill="#F5B642"/><circle cx="64" cy="17" r="6" fill="#39FF88"/>
+<text x="96" y="22" fill="#68757A" font-family="JetBrains Mono, Consolas, monospace" font-size="11">jainam@dev9269:~/profile</text>
+<rect x="860" y="58" width="372" height="320" fill="#0D1214" stroke="#1E2A2D" stroke-width="1"/>
+<text x="884" y="90" fill="#FF4D5E" font-family="JetBrains Mono, Consolas, monospace" font-size="11" letter-spacing="2">[ RED TEAM ]</text>
+<text x="884" y="126" fill="#E7DFD2" font-family="JetBrains Mono, Consolas, monospace" font-size="26" font-weight="700">METRICS</text>
+<g font-family="JetBrains Mono, Consolas, monospace" font-size="12">
+<text x="884" y="164" fill="#5F7A70">PUBLIC REPOS</text><text x="1216" y="164" fill="#39FF88" text-anchor="end">59</text>
+<text x="884" y="194" fill="#5F7A70">ORIGINAL NODES</text><text x="1216" y="194" fill="#39FF88" text-anchor="end">20</text>
+<text x="884" y="224" fill="#5F7A70">LANGUAGES</text><text x="1216" y="224" fill="#39FF88" text-anchor="end">55</text>
+<text x="884" y="254" fill="#5F7A70">STARS</text><text x="1216" y="254" fill="#F5B642" text-anchor="end">11</text>
+<text x="884" y="284" fill="#5F7A70">MERGED UPSTREAM PRS</text><text x="1216" y="284" fill="#F5B642" text-anchor="end">10</text>
+<text x="884" y="314" fill="#5F7A70">RECORDED VIEWS</text><text x="1216" y="314" fill="#39FF88" text-anchor="end">962</text>
+<text x="884" y="344" fill="#5F7A70">LOGGED EVENTS</text><text x="1216" y="344" fill="#39FF88" text-anchor="end">1,526</text>
+<text x="884" y="374" fill="#5F7A70">STREAK / PEAK</text><text x="1216" y="374" fill="#FF4D5E" text-anchor="end">50d / #84</text>
+</g>
+<g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+<text x="48" y="88" fill="#39FF88">jainam@dev9269:~$</text><text x="220" y="88" fill="#E7DFD2">whoami</text>
+<text x="48" y="130" fill="#5F7A70">&gt;</text><text x="76" y="130" fill="#E7DFD2" font-size="34" font-weight="700">JAINAM H. MARU</text>
+<text x="48" y="166" fill="#F5B642" font-size="14">SECURITY RESEARCH // SYSTEMS ENGINEERING // FULL-STACK OPERATOR</text>
+<text x="48" y="220" fill="#39FF88">jainam@dev9269:~$</text><text x="220" y="220" fill="#E7DFD2">scan --repos 59</text>
+<text x="48" y="250" fill="#5F7A70">&gt;</text><text x="76" y="250" fill="#E7DFD2">20 original / 39 upstream mirrors / 55 languages</text>
+<text x="48" y="304" fill="#39FF88">jainam@dev9269:~$</text><text x="220" y="304" fill="#E7DFD2">status --activity</text>
+<text x="48" y="334" fill="#5F7A70">&gt;</text><text x="76" y="334" fill="#E7DFD2">1,526 events / 104 logged days / peak marker #84</text>
+<text x="48" y="388" fill="#39FF88">jainam@dev9269:~$</text><text x="220" y="388" fill="#39FF88" font-weight="700">contact --open ▋</text>
+</g>
+</svg>

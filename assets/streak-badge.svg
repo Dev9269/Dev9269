@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="64" viewBox="0 0 440 64" role="img" aria-labelledby="t d">
+<title id="t">ACTIVITY STREAK</title><desc id="d">ACTIVITY STREAK status badge</desc>
+<rect width="440" height="64" rx="6" fill="#0D1214" stroke="#1E2A2D" stroke-width="1"/>
+<rect x="0" y="0" width="6" height="64" fill="#FF4D5E"/>
+<text x="22" y="24" fill="#5F7A70" font-family="JetBrains Mono, Consolas, monospace" font-size="11" letter-spacing="1.5">ACTIVITY STREAK</text>
+<text x="22" y="48" fill="#E7DFD2" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="700">50D / #84</text>
+<text x="418" y="48" fill="#FF4D5E" font-family="JetBrains Mono, Consolas, monospace" font-size="10" text-anchor="end">104 LOGGED DAYS</text>
+</svg>
