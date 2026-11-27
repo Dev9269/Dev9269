@@ -85,7 +85,7 @@ A selection of merged upstream contributions:
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev9269&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev9269&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview&hide=commits,prs,issues" alt="GitHub overview" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev9269&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
