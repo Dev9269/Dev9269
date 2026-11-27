@@ -6,7 +6,7 @@ from urllib.request import urlopen
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DATA_FILE = os.path.join(REPO_ROOT, "profile-views.json")
-README_FILE = os.path.join(REPO_ROOT, "README.md")
+PROFILE_VIEWS_FILE = os.path.join(REPO_ROOT, "PROFILE_VIEWS.md")
 BADGE_URL = "https://komarev.com/ghpvc/?username=dev9269"
 
 
@@ -48,9 +48,12 @@ def get_monthly_summary(history):
     return months
 
 
-def update_readme(monthly_summary, total_views):
-    with open(README_FILE, encoding="utf-8") as f:
-        content = f.read()
+def update_profile_views(monthly_summary, total_views):
+    if os.path.exists(PROFILE_VIEWS_FILE):
+        with open(PROFILE_VIEWS_FILE, encoding="utf-8") as f:
+            content = f.read()
+    else:
+        content = "# Profile Analytics\n"
 
     rows = ""
     for month_key in sorted(monthly_summary.keys(), reverse=True):
@@ -59,7 +62,7 @@ def update_readme(monthly_summary, total_views):
 
     monthly_section = f"""
 <details>
-<summary><b>📊 Monthly Profile Views</b> (Total: {total_views})</summary>
+<summary><b>Monthly profile views</b> (Total: {total_views})</summary>
 <br>
 
 | Month | Start | Peak | End | Growth |
@@ -81,7 +84,7 @@ def update_readme(monthly_summary, total_views):
     else:
         content += f"\n\n{new_section}"
 
-    with open(README_FILE, "w", encoding="utf-8") as f:
+    with open(PROFILE_VIEWS_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
 
@@ -105,7 +108,7 @@ def main():
 
     monthly = get_monthly_summary(data["history"])
     total = data["history"][-1]["count"] if data["history"] else 0
-    update_readme(monthly, total)
+    update_profile_views(monthly, total)
 
     print(f"Total views: {total}")
 

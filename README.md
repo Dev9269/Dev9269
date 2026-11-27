@@ -1,25 +1,17 @@
 <div align="center">
 
+<h1>Jainam H. Maru</h1>
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=Threat+intelligence%2C+but+make+it+open+source;I+break+systems+so+they+can%27t+break+you;MITRE+ATT%26CK+%C3%97+LLMs+%3D+my+playground;Zero+trust%2C+maximum+curiosity" alt="Typing SVG" />
-</h3>
+<p><strong>Security Researcher · OS Developer · Full-Stack Engineer</strong></p>
 
-> **"Hack ethically. Build defensively. Share everything."**
-
-<p>
-  <a href="https://linkedin.com/in/jainam-maru-007803386"><img src="https://img.shields.io/badge/LinkedIn-Jainam%20Maru-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://twitter.com/jainammaru_"><img src="https://img.shields.io/badge/Twitter-%40jainammaru__-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://dev.to/dev9269"><img src="https://img.shields.io/badge/Dev.to-dev.to%2Fdev9269-0A0A0A?style=flat&logo=dev.to&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://instagram.com/jainammaru_"><img src="https://img.shields.io/badge/Instagram-%40jainammaru__-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://dev9269.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-dev9269.github.io-00FF41?style=flat&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:Jainammaru567000@gmail.com"><img src="https://img.shields.io/badge/Email-Jainammaru567000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-</p>
+<p>I build defensive security tooling and full-stack systems, with a focus on threat intelligence, zero-trust architecture, and AI-assisted analysis.</p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/Dev9269?logo=github&style=flat&color=00FF41&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Dev9269?logo=github&style=flat&color=00FF41&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=Dev9269&label=PROFILE+VIEWS&color=00FF41&style=flat&labelColor=0d1117" />
+  <a href="https://dev9269.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jainam-h-maru">LinkedIn</a> ·
+  <a href="https://x.com/Dev9269Git">X</a> ·
+  <a href="https://bsky.app/profile/dev9269.bsky.social">Bluesky</a> ·
+  <a href="mailto:Jainammaru567000@gmail.com">Email</a>
 </p>
 
 </div>
@@ -28,160 +20,84 @@
 
 ## About
 
-I am **Jainam H. Maru**, a security researcher, OS developer, and full-stack engineer. I build AI-powered defensive tooling and study attacker behavior. My focus sits at the intersection of threat intelligence and machine learning.
+I am a security researcher and engineer working across threat intelligence, systems development, and full-stack product engineering. My work focuses on building tools that collect, correlate, and explain attacker behavior — and shipping them with tests, CI, and documentation.
 
-- **Threat intelligence collection:** honeypots, dark-web OSINT, MITRE ATT&CK mapping
-- **Dark-web OSINT and entity resolution:** building DarkForce - Tor and clearnet collection, actor correlation, interactive relationship graphs
-- **Zero-Trust architecture:** CISA ZTMM-aligned labs with OPA, oauth2-proxy, mTLS
-- **SIEM engineering:** building CyberRakshak (Smart India Hackathon) - Windows Event Log ingestion, correlation rules, MITRE-mapped detection, live SOC dashboard
-- **AI engineering:** LLM-assisted analysis (Ollama, Groq), ML malware detection with SHAP explainability
-- **Education systems:** building EduOS, an open-source operating system for education, secure exams, and cyber training
+**Currently building:** [EduOS](https://github.com/Dev9269/eduos), an open-source operating system for education, secure examinations, and cybersecurity training.
 
-I document, CI-test, and open-source everything I build.
+**Focus areas:**
 
----
-
-## Featured Projects
-
-| Project | What it does | Stack |
-| --------- | ------------- | ------- |
-| [**darkforce**](https://github.com/Dev9269/darkforce) **[live](https://darkforce-production.up.railway.app)** | Dark-web threat intelligence platform OSINT collection across Tor & clearnet, actor entity resolution, and an interactive relationship graph that dims filtered nodes instead of reflowing the layout | Python FastAPI React 19 Cytoscape.js SQLite Tor |
-| [**aegis-nexus-ai**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center - FastAPI + React, modular feature-first architecture, audit chain, risk scoring | Python - FastAPI - React 19 - TanStack Query - SQLite |
-| [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM platform for CRPF units (SIH 2026) agent-based Windows Event Log collection, correlation + MITRE ATT&CK detection, role-based live SOC dashboard | Python FastAPI Next.js 15 SQLAlchemy SSE |
-| [**eduos**](https://github.com/Dev9269/eduos) | Unified OS for learning, secure examinations, cybersecurity training & campus admin | Python PyQt6 FastAPI FreeBSD |
-| [**ssh-honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-driven SSH deception captures attacker commands, geolocates, scores threat, maps to MITRE ATT&CK | Python Paramiko Ollama Docker |
-| [**zero-trust-lab**](https://github.com/Dev9269/zero-trust-lab) | CISA ZTMM 2.0 lab nginx + oauth2-proxy + OPA + authz-bridge across 4 VMs | Docker OPA Authentik WireGuard |
-| [**malware-detector**](https://github.com/Dev9269/malware-detector) | PE malware detector YARA + Random Forest + EMBER 2381 features + SHAP | Python FastAPI scikit-learn |
-| [**crpf-soc-dashboard**](https://github.com/Dev9269/crpf-soc-dashboard) | SOC command-centre prototype centralized security monitoring for CRPF (SIH) | React FastAPI Recharts |
-| [**bitchat-messenger**](https://github.com/Dev9269/bitchat-messenger) | Real-time chat messenger | JS WebSockets |
-| [**password-cracker-toolkit**](https://github.com/Dev9269/password-cracker-toolkit) | Industrial-grade cracking suite masks, rules, combinator, sessions | Python CUDA |
+- **Threat intelligence and detection engineering** — honeypots, dark-web OSINT, MITRE ATT&CK mapping
+- **Zero-trust architecture** — CISA ZTMM-aligned labs with OPA, OAuth2 Proxy, and mTLS
+- **AI for security** — LLM-assisted triage, malware classification, and explainable ML
+- **Product engineering** — TypeScript, React, Expo, Python, FastAPI, and PostgreSQL
 
 ---
 
-## Tech Stack
+## Selected Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**EduOS**](https://github.com/Dev9269/eduos) | Open-source operating system for learning, secure examinations, cybersecurity training, and campus administration. | Python · PyQt6 · FastAPI · FreeBSD |
+| [**DarkForce**](https://github.com/Dev9269/darkforce) | Dark-web threat intelligence platform with Tor and clearnet collection, actor entity resolution, and an interactive relationship graph. | Python · FastAPI · React · Cytoscape.js · Tor |
+| [**Aegis Nexus AI**](https://github.com/Dev9269/aegis-nexus-ai) | Security operations command center with audit trails, risk scoring, and analyst workflows. | FastAPI · React · TanStack Query · SQLite |
+| [**CyberRakshak**](https://github.com/Dev9269/crpf-sentinel) | SIEM for Windows Event Logs with correlation rules, MITRE ATT&CK mapping, and a live SOC dashboard. Smart India Hackathon project. | FastAPI · Next.js · SQLAlchemy · SSE |
+| [**Duskwave**](https://github.com/Dev9269/duskwave) | Editorial music streaming app with catalog search, playback, and cloud media storage. | Expo · TypeScript · Supabase · Cloudflare R2 |
+| [**SSH Honeypot**](https://github.com/Dev9269/ssh-honeypot) | AI-powered SSH deception that captures attacker behavior, maps it to MITRE ATT&CK, and scores threat. | Python · Paramiko · Ollama · Docker |
+| [**Zero Trust Lab**](https://github.com/Dev9269/zero-trust-lab) | CISA ZTMM 2.0 lab implementing a self-hosted zero-trust gateway stack. | nginx · OPA · OAuth2 Proxy · Authentik |
+| [**Malware Detector**](https://github.com/Dev9269/malware-detector) | PE malware classifier using YARA, Random Forest, and EMBER features with SHAP explanations. | Python · scikit-learn · YARA · SHAP |
+
+---
+
+## Open Source
+
+A selection of merged upstream contributions:
+
+| Project | Contribution | Pull request |
+| --- | --- | --- |
+| [beeware/toga](https://github.com/beeware/toga) | Fixed `AsyncResult.__bool__` truthiness and SplitContainer assignment handling. | [#4632](https://github.com/beeware/toga/pull/4632), [#4633](https://github.com/beeware/toga/pull/4633) |
+| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fixed implicit string concatenation breaking the `singleuser_lifecycle_hooks` deprecation. | [#933](https://github.com/jupyterhub/kubespawner/pull/933) |
+| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fixed keyword-only argument crash and `max_iterations=0` handling. | [#501](https://github.com/pschanely/CrossHair/pull/501) |
+| [beeware/briefcase](https://github.com/beeware/briefcase) | Corrected the uninstall option error message. | [#3128](https://github.com/beeware/briefcase/pull/3128) |
+| [safedep/vet](https://github.com/safedep/vet) | Emit spec-compliant PURLs for distro ecosystems. | [#768](https://github.com/safedep/vet/pull/768) |
+| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs tagged `aws:*` during orphan detection. | [#554](https://github.com/spore-host/spawn/pull/554) |
+| [Nayjest/Gito](https://github.com/Nayjest/Gito) | Fixed `None` crashes in answer and deploy paths. | [#318](https://github.com/Nayjest/Gito/pull/318) |
+| [lissy93/web-check](https://github.com/lissy93/web-check) | Fixed typos, grammar, and broken links in documentation. | [#314](https://github.com/lissy93/web-check/pull/314) |
+| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fixes on the SQL Injection Prevention Cheat Sheet. | [#1549](https://github.com/OWASP/CheatSheetSeries/pull/1549) |
+
+---
+
+## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,rust,go,bash,c,linux,kali&perline=10&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,flask,fastapi,django&perline=7&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,nginx,git,githubactions&perline=8&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&perline=5&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,grafana,prometheus,vercel,figma&perline=6&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vite,vitest,pytest,sqlalchemy,pydantic,celery,redis,nginx&perline=8&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cybersecurity,network,cloudflare,prometheus&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,go,bash,linux&perline=7" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,redis,supabase&perline=7" alt="Backend and data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,cloudflare,nginx,githubactions&perline=8" alt="Infrastructure" />
 </p>
+
+**Security tooling:** MITRE ATT&CK · YARA · OPA · OAuth2 Proxy · Tor · OSINT · Honeypots
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Mapper-C8102E?style=flat-square&logo=mitre" />
-  <img src="https://img.shields.io/badge/Zero_Trust-CISA_ZTMM-3ddc97?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat_Intel-ThreatConnect-00FF41?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-Ollama%2FGroq-FF9900?style=flat-square&logo=ollama" />
-  <img src="https://img.shields.io/badge/OSINT-Osintgram-1DA1F2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deception-Honeypots-9C27B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dark_Web-OSINT_%2B_Tor-00B3A4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Entity_Resolution-Actor_Graphs-5B21B6?style=flat-square" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev9269&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev9269&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
 
-## GitHub Analytics
+## Contact
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Contributions_(last_12mo)-109-00FF41?style=for-the-badge&labelColor=0d1117" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev9269&theme=radical" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev9269&theme=radical" height="175" />
-  <br>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev9269&theme=radical&bg_color=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41" width="49%" />
-</div>
+- **Portfolio:** [dev9269.github.io/portfolio](https://dev9269.github.io/portfolio/)
+- **LinkedIn:** [jainam-h-maru](https://www.linkedin.com/in/jainam-h-maru)
+- **Email:** [Jainammaru567000@gmail.com](mailto:Jainammaru567000@gmail.com)
+- **X:** [@Dev9269Git](https://x.com/Dev9269Git)
+- **Bluesky:** [@dev9269.bsky.social](https://bsky.app/profile/dev9269.bsky.social)
+- **Dev.to:** [dev9269](https://dev.to/dev9269)
 
----
-
-## Open Source Contributions
-
-| Project | Contribution | Status |
-| --------- | ------------- | -------- |
-| [beeware/toga](https://github.com/beeware/toga) | Fix `AsyncResult.__bool__` so truthiness raises the helpful exception message | [#4632](https://github.com/beeware/toga/pull/4632) merged |
-| [pschanely/CrossHair](https://github.com/pschanely/CrossHair) | Fix keyword-only arg crash, `max_iterations=0` NameError, and `format_boundargs` TypeError | [#501](https://github.com/pschanely/CrossHair/pull/501) merged |
-| [Nayjest/GITO](https://github.com/Nayjest/GITO) | Fix `None` crashes in `answer()`, `cmd_answer`, and `deploy --commit` | [#318](https://github.com/Nayjest/GITO/pull/318) merged |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Typos/grammar/broken-links fixes | [#314](https://github.com/lissy93/web-check/pull/314) merged |
-| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Grammar fixes on SQL Injection Prevention Cheat Sheet | [#1549](https://github.com/OWASP/CheatSheetSeries/pull/1549) merged |
-| [spore-host/spawn](https://github.com/spore-host/spawn) | Skip unassociated EIPs annotated `aws:*` in reconciler | [#554](https://github.com/spore-host/spawn/pull/554) merged |
-| [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner) | Fix implicit string concatenation breaking `singleuser_lifecycle_hooks` deprecation | Open [#933](https://github.com/jupyterhub/kubespawner/pull/933) |
-| [beeware/toga](https://github.com/beeware/toga) | Don't orphan SplitContainer content on invalid assignment | PR [#4633](https://github.com/beeware/toga/pull/4633) |
-| [lissy93/web-check](https://github.com/lissy93/web-check) | Skip public API calls for non-routable IPs; add SECURITY.md | PRs [#320](https://github.com/lissy93/web-check/pull/320), [#322](https://github.com/lissy93/web-check/pull/322) |
-| [scanapi/scanapi](https://github.com/scanapi/scanapi) | Migrated pytest-freezegun time-machine | PR [#1011](https://github.com/scanapi/scanapi/pull/1011) |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | DNS/Discord.bio/interpals false positives; `--output` no-rewrite; per-username counter reset; location-parse crash | PRs [#3080](https://github.com/sherlock-project/sherlock/pull/3080), [#3083](https://github.com/sherlock-project/sherlock/pull/3083), [#3084](https://github.com/sherlock-project/sherlock/pull/3084), [#3085](https://github.com/sherlock-project/sherlock/pull/3085), [#3094](https://github.com/sherlock-project/sherlock/pull/3094) |
-| [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) | Performance optimizations trimmed test lockfiles, lazy DB init | PR [#5857](https://github.com/ossf/cve-bin-tool/pull/5857) |
-| [xynehq/xyne](https://github.com/xynehq/xyne) | Skip empty Docling image chunk descriptions | PR [#1365](https://github.com/xynehq/xyne/pull/1365) |
-| [orkestra-cc/orkestra](https://github.com/orkestra-cc/orkestra) | rustfs backup/restore check-sync fix | PR [#304](https://github.com/orkestra-cc/orkestra/pull/304) |
-| [common-workflow-language/cwltool](https://github.com/common-workflow-language/cwltool) | Fix `resolve_local` returning CWD-anchored URIs | PR [#2325](https://github.com/common-workflow-language/cwltool/pull/2325) |
-| [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks) | Use glob patterns for TLS policies (AWS-0112 + AWS-0126) | PRs [#606](https://github.com/aquasecurity/trivy-checks/pull/606), [#607](https://github.com/aquasecurity/trivy-checks/pull/607) |
-| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Serve localized 404 page for unknown locations | PR [#1292](https://github.com/chubin/wttr.in/pull/1292) |
-| [beefproject/beef](https://github.com/beefproject/beef) | Fix URL-encoded command passed to shell execution modules | PR [#3637](https://github.com/beefproject/beef/pull/3637) |
-| [andyjmorgan/slipspace-gateway](https://github.com/andyjmorgan/slipspace-gateway) | Clarify `Last4` contract for short secrets in `redact()` | PR [#562](https://github.com/andyjmorgan/slipspace-gateway/pull/562) |
-| [getaxonflow/axonflow](https://github.com/getaxonflow/axonflow) | Complete the examples index in `examples/README.md` | PR [#462](https://github.com/getaxonflow/axonflow/pull/462) |
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | Fix typos in CLI options and install instructions | [Closed](https://github.com/qeeqbox/social-analyzer/pull/178) |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Fix typo: "Graphs databases" "Graph databases" | [Closed](https://github.com/donnemartin/system-design-primer/pull/1306) |
-| [OWASP/Nest](https://github.com/OWASP/Nest) | Fix `/repositories` sitemap `lastmod` to use latest repository update | [Closed](https://github.com/OWASP/Nest/pull/5573) |
-| [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Add password cracking techniques to Password Storage Cheat Sheet | [Closed](https://github.com/OWASP/CheatSheetSeries/pull/2307) |
-| [pypsa-meets-earth/pypsa-earth](https://github.com/pypsa-meets-earth/pypsa-earth) | Exit after writing empty hydro profile to avoid NameError on inflow | Closed unmerged |
-| [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) | Catch loud nmap under sudo prefix during training-data cleanup | Closed unmerged |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Security best practices documentation | Closed |
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev9269&theme=chartreuse-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
-## Support My Work
-
-<div align="center">
-  <a href="https://github.com/sponsors/Dev9269"><img src="https://img.shields.io/badge/GitHub_Sponsors-Dev9269-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
-  <a href="https://www.buymeacoffee.com/jainammaru"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://ko-fi.com/dev9269"><img src="https://img.shields.io/badge/Ko--fi-Dev9269-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" /></a>
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/jainam-maru-007803386">LinkedIn</a>   
-  <a href="https://twitter.com/jainammaru_">Twitter</a>   
-  <a href="https://dev.to/dev9269">Dev.to</a>   
-  <a href="https://instagram.com/jainammaru_">Instagram</a>   
-  <a href="https://dev9269.github.io/portfolio/">Portfolio</a>   
-  <a href="mailto:Jainammaru567000@gmail.com">Email</a>
-</div>
-
-<br>
-
-<sub align="center"><i>"Code with intention. Secure with ethics."     Jainam H. Maru</i></sub>
-</div>
-
-<!-- PROFILE_VIEWS:START -->
-
-<details>
-<summary><b>     Monthly Profile Views</b> (Total: 962)</summary>
-<br>
-
-| Month | Start | Peak | End | Growth |
-| ------- | ------- | ------ | ----- | -------- |
-| 2026-09 | 889 | 962 | 962 | 73 |
-| 2026-08 | 521 | 866 | 866 | 345 |
-| 2026-07 | 196 | 503 | 503 | 307 |
-
-</details>
-
-<!-- PROFILE_VIEWS:END -->
+<p align="center"><sub>Security research · Systems engineering · Open source</sub></p>
